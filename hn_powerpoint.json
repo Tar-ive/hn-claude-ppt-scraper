@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-02-24T23:42:25.668395Z",
+  "count": 4,
+  "results": [
+    {
+      "id": "46904290",
+      "title": "Claude in PowerPoint",
+      "url": "https://claude.com/claude-in-powerpoint",
+      "points": 1,
+      "submitter": "jbredeche",
+      "dt": "2026-02-05T19:55:33Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=46904290",
+      "numComments": 1,
+      "queryName": "claude_powerpoint",
+      "query": "claude powerpoint"
+    },
+    {
+      "id": "45639318",
+      "title": "Show HN: Why system modeling should look like code, not PowerPoint",
+      "url": null,
+      "points": 3,
+      "submitter": "twopowerX",
+      "dt": "2025-10-20T00:53:22Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=45639318",
+      "numComments": 0,
+      "queryName": "claude_powerpoint",
+      "query": "claude powerpoint"
+    },
+    {
+      "id": "46288120",
+      "title": "Show HN: TypeDeck \u2013 Markdown, Mermaid, etc. to presentation slides",
+      "url": "https://typedeck.io",
+      "points": 2,
+      "submitter": "TypeDeck",
+      "dt": "2025-12-16T13:16:05Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=46288120",
+      "numComments": 2,
+      "queryName": "claude_powerpoint",
+      "query": "claude powerpoint"
+    },
+    {
+      "id": "45639318",
+      "title": "Show HN: Why system modeling should look like code, not PowerPoint",
+      "url": null,
+      "points": 3,
+      "submitter": "twopowerX",
+      "dt": "2025-10-20T00:53:22Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=45639318",
+      "numComments": 0,
+      "queryName": "claude_powerpoint_extension",
+      "query": "claude powerpoint extension"
+    }
+  ]
+}
