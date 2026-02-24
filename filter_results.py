@@ -32,6 +32,9 @@ def regex_filter(items, patterns):
             it.get("url") or "",
         ])
         if regex.search(text):
+            it = dict(it)
+            it["match_mode"] = "regex"
+            it["pptx_present"] = bool(re.search(r"pptx", text, re.IGNORECASE))
             out.append(it)
     return out
 
@@ -58,6 +61,9 @@ def llm_filter(items, api_key, model):
         )
         text = (resp.choices[0].message.content or "").strip().upper()
         if text.startswith("YES"):
+            it = dict(it)
+            it["match_mode"] = "llm"
+            it["pptx_present"] = bool(re.search(r"pptx", (title + " " + url), re.IGNORECASE))
             filtered.append(it)
     return filtered
 

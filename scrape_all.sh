@@ -6,4 +6,9 @@ cd "$SCRIPT_DIR"
 
 ./scrape_jobs.sh
 python scrape_queries.py --queries queries.json --out hn_queries.json
-python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode regex
+# Try NVIDIA LLM filter first, fall back to regex if it fails
+python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode llm --model z-ai/glm5 || \
+  python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode regex
+python update_readme.py --input hn_powerpoint.json --readme README.md --limit 25
+# Cleanup raw pages/queries
+rm -f jobs-page*.json hn_queries.json

@@ -52,5 +52,12 @@ export NVIDIA_API_KEY="your_key"
 python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode llm --model z-ai/glm5
 ```
 
+## Latest PowerPoint/Claude-related items
+<!-- HN_TABLE_START -->
+| HN link | App/External link | Posted | PPTX present | Match mode |
+|---|---|---|---|---|
+| (none) | | | | |
+<!-- HN_TABLE_END -->
+
 ## GitHub Actions
-You can run this on a schedule with GitHub Actions to auto-commit JSON outputs.
+Runs hourly and auto-commits JSON outputs + README updates.
