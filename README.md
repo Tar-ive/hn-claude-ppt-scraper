@@ -56,7 +56,12 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 <!-- HN_TABLE_START -->
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
-| (none) | | | | |
+| [HN](https://news.ycombinator.com/item?id=46904290) | [link](https://claude.com/claude-in-powerpoint) | 2026-02-05T19:55:33Z | no | regex |
+| [HN](https://news.ycombinator.com/item?id=45639318) |  | 2025-10-20T00:53:22Z | no | regex |
+| [HN](https://news.ycombinator.com/item?id=46288120) | [link](https://typedeck.io) | 2025-12-16T13:16:05Z | no | regex |
+| [HN](https://news.ycombinator.com/item?id=45639318) |  | 2025-10-20T00:53:22Z | no | regex |
+
+_Last updated: 2026-02-24T23:47:40.091497Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions

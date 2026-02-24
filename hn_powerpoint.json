@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-24T23:42:25.668395Z",
+  "generated_at": "2026-02-24T23:46:06.396192Z",
   "count": 4,
   "results": [
     {
@@ -12,7 +12,9 @@
       "commentsUrl": "https://news.ycombinator.com/item?id=46904290",
       "numComments": 1,
       "queryName": "claude_powerpoint",
-      "query": "claude powerpoint"
+      "query": "claude powerpoint",
+      "match_mode": "regex",
+      "pptx_present": false
     },
     {
       "id": "45639318",
@@ -24,7 +26,9 @@
       "commentsUrl": "https://news.ycombinator.com/item?id=45639318",
       "numComments": 0,
       "queryName": "claude_powerpoint",
-      "query": "claude powerpoint"
+      "query": "claude powerpoint",
+      "match_mode": "regex",
+      "pptx_present": false
     },
     {
       "id": "46288120",
@@ -36,7 +40,9 @@
       "commentsUrl": "https://news.ycombinator.com/item?id=46288120",
       "numComments": 2,
       "queryName": "claude_powerpoint",
-      "query": "claude powerpoint"
+      "query": "claude powerpoint",
+      "match_mode": "regex",
+      "pptx_present": false
     },
     {
       "id": "45639318",
@@ -48,7 +54,9 @@
       "commentsUrl": "https://news.ycombinator.com/item?id=45639318",
       "numComments": 0,
       "queryName": "claude_powerpoint_extension",
-      "query": "claude powerpoint extension"
+      "query": "claude powerpoint extension",
+      "match_mode": "regex",
+      "pptx_present": false
     }
   ]
 }
