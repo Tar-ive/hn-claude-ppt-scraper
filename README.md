@@ -42,14 +42,16 @@ Outputs:
 Edit keywords in `filter_results.py` or pass a custom set:
 ```bash
 python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode regex \
-  --keywords "powerpoint|pptx|ppt|slides|presentation|claude|anthropic|openclaw"
+  --keywords "powerpoint|pptx|ppt|slides|presentation|claude|anthropic|openclaw" \
+  --max-days 90
 ```
 
 ### NVIDIA LLM (optional)
 If you want a smarter classifier:
 ```bash
 export NVIDIA_API_KEY="your_key"
-python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode llm --model z-ai/glm5
+python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode llm --model z-ai/glm5 \
+  --llm-limit 20 --max-days 90
 ```
 
 ## Latest PowerPoint/Claude-related items

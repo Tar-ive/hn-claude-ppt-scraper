@@ -3,6 +3,7 @@ import json
 import re
 import os
 import argparse
+from datetime import datetime, timezone
 
 # Optional LLM classification via NVIDIA API (OpenAI-compatible)
 try:
@@ -23,10 +24,31 @@ DEFAULT_KEYWORDS = [
 ]
 
 
-def regex_filter(items, patterns):
+def parse_dt(dt_str):
+    if not dt_str:
+        return None
+    try:
+        return datetime.fromisoformat(dt_str.replace("Z", "+00:00")).astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def within_days(item, max_days):
+    if max_days is None:
+        return True
+    dt = parse_dt(item.get("dt"))
+    if not dt:
+        return True
+    age_days = (datetime.now(timezone.utc) - dt).days
+    return age_days <= max_days
+
+
+def regex_filter(items, patterns, max_days=None):
     regex = re.compile("|".join(patterns), re.IGNORECASE)
     out = []
     for it in items:
+        if not within_days(it, max_days):
+            continue
         text = " ".join([
             it.get("title") or "",
             it.get("url") or "",
@@ -39,12 +61,15 @@ def regex_filter(items, patterns):
     return out
 
 
-def llm_filter(items, api_key, model):
+def llm_filter(items, api_key, model, max_days=None, limit=None):
     if OpenAI is None:
         raise RuntimeError("openai package not installed")
     client = OpenAI(base_url="https://integrate.api.nvidia.com/v1", api_key=api_key)
     filtered = []
-    for it in items:
+    candidates = [it for it in items if within_days(it, max_days)]
+    if limit:
+        candidates = candidates[:limit]
+    for it in candidates:
         title = it.get("title") or ""
         url = it.get("url") or ""
         prompt = (
@@ -75,6 +100,8 @@ def main():
     ap.add_argument("--mode", choices=["regex", "llm"], default="regex")
     ap.add_argument("--model", default="z-ai/glm5")
     ap.add_argument("--keywords", default="|".join(DEFAULT_KEYWORDS))
+    ap.add_argument("--max-days", type=int, default=90)
+    ap.add_argument("--llm-limit", type=int, default=20)
     args = ap.parse_args()
 
     with open(args.inp, "r") as f:
@@ -86,9 +113,9 @@ def main():
         api_key = os.getenv("NVIDIA_API_KEY") or os.getenv("NVAPI_KEY")
         if not api_key:
             raise RuntimeError("NVIDIA_API_KEY (or NVAPI_KEY) not set")
-        filtered = llm_filter(items, api_key, args.model)
+        filtered = llm_filter(items, api_key, args.model, max_days=args.max_days, limit=args.llm_limit)
     else:
-        filtered = regex_filter(items, args.keywords.split("|"))
+        filtered = regex_filter(items, args.keywords.split("|"), max_days=args.max_days)
 
     out = {
         "generated_at": data.get("generated_at") if isinstance(data, dict) else None,

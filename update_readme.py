@@ -21,7 +21,9 @@ def make_table(items, limit=20):
         dt = it.get("dt") or ""
         pptx = "yes" if it.get("pptx_present") else "no"
         mode = it.get("match_mode") or "regex"
-        rows.append(f"| [HN]({hn}) | {(f'[link]({ext})' if ext else '')} | {dt} | {pptx} | {mode} |")
+        hn_cell = hn if hn else ""
+        ext_cell = ext if ext else ""
+        rows.append(f"| {hn_cell} | {ext_cell} | {dt} | {pptx} | {mode} |")
 
     header = "| HN link | App/External link | Posted | PPTX present | Match mode |\n|---|---|---|---|---|"
     body = "\n".join(rows) if rows else "| (none) | | | | |"
