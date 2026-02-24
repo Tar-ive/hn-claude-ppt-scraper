@@ -1,0 +1,33 @@
+name: Scrape HN
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 * * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+      - name: Install deps
+        run: |
+          pip install -r requirements.txt
+          shot-scraper install
+      - name: Scrape
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: |
+          ./scrape_all.sh
+      - name: Commit + push
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "HN scrape $(date -u)" || exit 0
+          git pull --rebase
+          git push

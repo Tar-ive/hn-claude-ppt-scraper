@@ -1,0 +1,26 @@
+{
+  "claude_powerpoint": {
+    "query": "claude powerpoint",
+    "tags": "story"
+  },
+  "claude_powerpoint_extension": {
+    "query": "claude powerpoint extension",
+    "tags": "story"
+  },
+  "claude_powerpoint_skill": {
+    "query": "claude powerpoint skill",
+    "tags": "story"
+  },
+  "openclaw_powerpoint": {
+    "query": "openclaw powerpoint",
+    "tags": "story"
+  },
+  "who_is_hiring": {
+    "query": "Who is hiring",
+    "tags": "story"
+  },
+  "startup_jobs": {
+    "query": "hiring startup",
+    "tags": "story"
+  }
+}

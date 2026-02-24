@@ -1,0 +1,4 @@
+shot-scraper>=1.9.1
+csv-diff>=1.2
+requests>=2.31.0
+openai>=1.40.0
