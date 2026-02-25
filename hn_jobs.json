@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-02-25T11:30:14.146090Z",
+  "generated_at": "2026-02-25T12:31:03.301152Z",
   "count": 30,
   "results": [
+    {
+      "id": "47150403",
+      "title": "Event Horizon Labs (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer",
+      "dt": "2026-02-25T12:01:11",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47150403",
+      "numComments": 0
+    },
     {
       "id": "47145911",
       "title": "Corgi Labs (YC W23) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=46840801",
-      "numComments": 0
-    },
-    {
-      "id": "46835834",
-      "title": "Insane Growth Goldbridge (YC F25) Is Hiring a Forward Deployed Engineer",
-      "url": "https://www.ycombinator.com/companies/goldbridge/jobs/78gGEHh-forward-deployed-engineer",
-      "dt": "2026-01-31T12:00:22",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=46835834",
       "numComments": 0
     }
   ]
