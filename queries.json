@@ -22,5 +22,13 @@
   "startup_jobs": {
     "query": "hiring startup",
     "tags": "story"
+  },
+  "visa_support": {
+    "query": "visa sponsorship",
+    "tags": "story"
+  },
+  "visa_support_alt": {
+    "query": "visa support",
+    "tags": "story"
   }
 }

@@ -21,6 +21,16 @@ DEFAULT_KEYWORDS = [
     r"claude",
     r"anthropic",
     r"openclaw",
+    r"visa\s+sponsorship",
+    r"visa\s+support",
+    r"sponsor\s+visa",
+    r"h1b",
+    r"opt\s*extension",
+    r"relocation",
+    r"sponsorship",
+    r"hiring",
+    r"job",
+    r"jobs",
 ]
 
 
@@ -43,7 +53,20 @@ def within_days(item, max_days):
     return age_days <= max_days
 
 
-def regex_filter(items, patterns, max_days=None):
+def load_seen(path):
+    try:
+        with open(path, "r") as f:
+            return set(json.load(f))
+    except Exception:
+        return set()
+
+
+def save_seen(path, ids):
+    with open(path, "w") as f:
+        json.dump(sorted(list(ids)), f, indent=2)
+
+
+def regex_filter(items, patterns, max_days=None, seen_ids=None):
     regex = re.compile("|".join(patterns), re.IGNORECASE)
     out = []
     for it in items:
@@ -53,15 +76,17 @@ def regex_filter(items, patterns, max_days=None):
             it.get("title") or "",
             it.get("url") or "",
         ])
-        if regex.search(text):
+        is_match = regex.search(text) is not None
+        already_seen = seen_ids is not None and it.get("id") in seen_ids
+        if is_match or already_seen:
             it = dict(it)
-            it["match_mode"] = "regex"
+            it["match_mode"] = "regex" if is_match else "seen"
             it["pptx_present"] = bool(re.search(r"pptx", text, re.IGNORECASE))
             out.append(it)
     return out
 
 
-def llm_filter(items, api_key, model, max_days=None, limit=None):
+def llm_filter(items, api_key, model, max_days=None, limit=None, seen_ids=None):
     if OpenAI is None:
         raise RuntimeError("openai package not installed")
     client = OpenAI(base_url="https://integrate.api.nvidia.com/v1", api_key=api_key)
@@ -90,6 +115,12 @@ def llm_filter(items, api_key, model, max_days=None, limit=None):
             it["match_mode"] = "llm"
             it["pptx_present"] = bool(re.search(r"pptx", (title + " " + url), re.IGNORECASE))
             filtered.append(it)
+        else:
+            if seen_ids is not None and it.get("id") in seen_ids:
+                it = dict(it)
+                it["match_mode"] = "seen"
+                it["pptx_present"] = bool(re.search(r"pptx", (title + " " + url), re.IGNORECASE))
+                filtered.append(it)
     return filtered
 
 
@@ -102,6 +133,7 @@ def main():
     ap.add_argument("--keywords", default="|".join(DEFAULT_KEYWORDS))
     ap.add_argument("--max-days", type=int, default=90)
     ap.add_argument("--llm-limit", type=int, default=20)
+    ap.add_argument("--seen-file", default="seen_ids.json")
     args = ap.parse_args()
 
     with open(args.inp, "r") as f:
@@ -109,13 +141,21 @@ def main():
 
     items = data["results"] if isinstance(data, dict) and "results" in data else data
 
+    seen_ids = load_seen(args.seen_file) if args.seen_file else set()
+
     if args.mode == "llm":
         api_key = os.getenv("NVIDIA_API_KEY") or os.getenv("NVAPI_KEY")
         if not api_key:
             raise RuntimeError("NVIDIA_API_KEY (or NVAPI_KEY) not set")
-        filtered = llm_filter(items, api_key, args.model, max_days=args.max_days, limit=args.llm_limit)
+        filtered = llm_filter(items, api_key, args.model, max_days=args.max_days, limit=args.llm_limit, seen_ids=seen_ids)
     else:
-        filtered = regex_filter(items, args.keywords.split("|"), max_days=args.max_days)
+        filtered = regex_filter(items, args.keywords.split("|"), max_days=args.max_days, seen_ids=seen_ids)
+
+    if args.seen_file:
+        for it in filtered:
+            if it.get("id"):
+                seen_ids.add(it.get("id"))
+        save_seen(args.seen_file, seen_ids)
 
     out = {
         "generated_at": data.get("generated_at") if isinstance(data, dict) else None,
