@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T07:36:48.832494Z",
+  "generated_at": "2026-02-25T08:31:44.996764Z",
   "count": 1,
   "results": [
     {
@@ -13,7 +13,7 @@
       "numComments": 100,
       "queryName": "visa_support",
       "query": "visa sponsorship",
-      "match_mode": "regex",
+      "match_mode": "seen",
       "pptx_present": false
     }
   ]
