@@ -13,7 +13,9 @@ for page in 1 2; do
   else
     URL="https://news.ycombinator.com/jobs?p=${page}"
   fi
-  shot-scraper javascript "$URL" -i scrape_hn_list.js -o "jobs-page${page}.json"
+  # retry once on transient network errors
+  shot-scraper javascript "$URL" -i scrape_hn_list.js -o "jobs-page${page}.json" || \
+    shot-scraper javascript "$URL" -i scrape_hn_list.js -o "jobs-page${page}.json"
   sleep 2
  done
 
