@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-02-26T11:29:56.893558Z",
+  "generated_at": "2026-02-26T12:30:45.841911Z",
   "count": 30,
   "results": [
+    {
+      "id": "47164933",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers#open-positions",
+      "dt": "2026-02-26T12:02:14",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47164933",
+      "numComments": 0
+    },
     {
       "id": "47154246",
       "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=46869901",
-      "numComments": 0
-    },
-    {
-      "id": "46848260",
-      "title": "Clearspace (YC W23) Is Hiring an Applied Researcher (ML)",
-      "url": "https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace",
-      "dt": "2026-02-01T18:41:54",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=46848260",
       "numComments": 0
     }
   ]
