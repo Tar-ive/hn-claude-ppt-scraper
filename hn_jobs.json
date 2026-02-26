@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-02-26T16:36:26.100885Z",
+  "generated_at": "2026-02-26T17:38:56.911231Z",
   "count": 30,
   "results": [
+    {
+      "id": "47168721",
+      "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
+      "url": "https://www.workatastartup.com/jobs/80596",
+      "dt": "2026-02-26T17:00:25",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47168721",
+      "numComments": 0
+    },
     {
       "id": "47164933",
       "title": "Hightouch (YC S19) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=46888331",
-      "numComments": 0
-    },
-    {
-      "id": "46869901",
-      "title": "Emerge Career (YC S22) is hiring a product designer",
-      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer",
-      "dt": "2026-02-03T12:00:23",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=46869901",
       "numComments": 0
     }
   ]
