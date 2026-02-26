@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-02-25T23:26:24.790451Z",
+  "generated_at": "2026-02-26T00:49:41.226288Z",
   "count": 1,
   "results": [
     {
       "id": "47041634",
       "title": "H-1B Exposed: Banking sector visa sponsorship investigation",
       "url": "https://www.h1bexposed.tech/",
-      "points": 183,
+      "points": 184,
       "submitter": "joshcsimmons",
       "dt": "2026-02-16T23:15:37Z",
       "commentsUrl": "https://news.ycombinator.com/item?id=47041634",
       "numComments": 100,
       "queryName": "visa_support",
       "query": "visa sponsorship",
-      "match_mode": "regex",
+      "match_mode": "seen",
       "pptx_present": false
     }
   ]
