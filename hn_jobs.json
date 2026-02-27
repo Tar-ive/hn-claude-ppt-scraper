@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-02-27T00:51:54.754397Z",
+  "generated_at": "2026-02-27T01:56:28.762474Z",
   "count": 30,
   "results": [
+    {
+      "id": "47175013",
+      "title": "LiteLLM (YC W23): Founding Reliability Engineer \u2013 $200K-$270K and 0.5-1.0% equity",
+      "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
+      "dt": "2026-02-27T01:18:18",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47175013",
+      "numComments": 0
+    },
     {
       "id": "47168721",
       "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=46898713",
-      "numComments": 0
-    },
-    {
-      "id": "46888331",
-      "title": "Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)",
-      "url": "https://www.runconverge.com/careers/product-engineer",
-      "dt": "2026-02-04T17:01:14",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=46888331",
       "numComments": 0
     }
   ]
