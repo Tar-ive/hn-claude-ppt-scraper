@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-02-27T08:28:17.187907Z",
+  "generated_at": "2026-02-27T09:28:44.401324Z",
   "count": 30,
   "results": [
+    {
+      "id": "47178176",
+      "title": "Ubicloud (YC W24): Software Engineer \u2013 $95-$250K in Turkey, Netherlands, CA",
+      "url": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
+      "dt": "2026-02-27T08:45:02",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47178176",
+      "numComments": 0
+    },
     {
       "id": "47175013",
       "title": "LiteLLM (YC W23): Founding Reliability Engineer \u2013 $200K-$270K and 0.5-1.0% equity",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=46901768",
-      "numComments": 0
-    },
-    {
-      "id": "46898713",
-      "title": "Freshpaint (YC S19) Is Hiring a Senior SWE, Data",
-      "url": "https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761",
-      "dt": "2026-02-05T12:00:03",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=46898713",
       "numComments": 0
     }
   ]
