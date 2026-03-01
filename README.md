@@ -60,7 +60,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=47041634 | https://www.h1bexposed.tech/ | 2026-02-16T23:15:37Z | no | seen |
 
-_Last updated: 2026-03-01T21:27:04.061688Z_
+_Last updated: 2026-03-01T22:27:05.211179Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
