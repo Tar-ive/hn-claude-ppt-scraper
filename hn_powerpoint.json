@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T08:28:35.056639Z",
-  "count": 1,
+  "generated_at": "2026-03-02T09:33:09.380919Z",
+  "count": 2,
   "results": [
     {
       "id": "47041634",
@@ -13,7 +13,21 @@
       "numComments": 100,
       "queryName": "visa_support",
       "query": "visa sponsorship",
-      "match_mode": "seen",
+      "match_mode": "regex",
+      "pptx_present": false
+    },
+    {
+      "id": "47198670",
+      "title": "OpenRockets Foundation Gains Fiscal Sponsorship via the Hack Foundation",
+      "url": "https://mag.openrockets.com",
+      "points": 1,
+      "submitter": "Matheww",
+      "dt": "2026-02-28T18:33:42Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=47198670",
+      "numComments": 1,
+      "queryName": "visa_support",
+      "query": "visa sponsorship",
+      "match_mode": "regex",
       "pptx_present": false
     }
   ]
