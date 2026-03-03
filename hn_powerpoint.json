@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T22:26:30.333794Z",
-  "count": 4,
+  "generated_at": "2026-03-03T23:26:16.755588Z",
+  "count": 3,
   "results": [
     {
       "id": "47231772",
@@ -27,20 +27,6 @@
       "numComments": 2,
       "queryName": "claude_powerpoint_skill",
       "query": "claude powerpoint skill",
-      "match_mode": "seen",
-      "pptx_present": false
-    },
-    {
-      "id": "47041634",
-      "title": "H-1B Exposed: Banking sector visa sponsorship investigation",
-      "url": "https://www.h1bexposed.tech/",
-      "points": 184,
-      "submitter": "joshcsimmons",
-      "dt": "2026-02-16T23:15:37Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=47041634",
-      "numComments": 100,
-      "queryName": "visa_support",
-      "query": "visa sponsorship",
       "match_mode": "seen",
       "pptx_present": false
     },
