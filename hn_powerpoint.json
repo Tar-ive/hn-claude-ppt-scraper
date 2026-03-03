@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T14:32:00.353280Z",
-  "count": 3,
+  "generated_at": "2026-03-03T15:33:35.283159Z",
+  "count": 4,
   "results": [
     {
       "id": "47231772",
@@ -13,7 +13,21 @@
       "numComments": 2,
       "queryName": "claude_powerpoint",
       "query": "claude powerpoint",
-      "match_mode": "llm",
+      "match_mode": "seen",
+      "pptx_present": false
+    },
+    {
+      "id": "47231772",
+      "title": "Show HN: Ablo - AI slides without the generic look or layout restrictions",
+      "url": "https://www.ablo.finance/",
+      "points": 2,
+      "submitter": "lukasanderss",
+      "dt": "2026-03-03T13:10:05Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=47231772",
+      "numComments": 2,
+      "queryName": "claude_powerpoint_skill",
+      "query": "claude powerpoint skill",
+      "match_mode": "seen",
       "pptx_present": false
     },
     {
