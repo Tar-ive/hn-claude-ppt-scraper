@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-04T17:29:16.065233Z",
+  "generated_at": "2026-03-04T18:29:31.917218Z",
   "count": 30,
   "results": [
+    {
+      "id": "47251163",
+      "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+      "url": "https://roboflow.com/careers",
+      "dt": "2026-03-04T17:49:44",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47251163",
+      "numComments": 0
+    },
     {
       "id": "47246268",
       "title": "Jiga (YC W21) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47001756",
-      "numComments": 0
-    },
-    {
-      "id": "46999753",
-      "title": "Asimov (YC W26) Is Hiring Remote/Worldwide",
-      "url": "https://news.ycombinator.com/item?id=46999753",
-      "dt": "2026-02-13T07:00:41",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=46999753",
       "numComments": 0
     }
   ]
