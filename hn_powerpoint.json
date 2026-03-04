@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T06:30:10.946845Z",
+  "generated_at": "2026-03-04T07:29:18.159202Z",
   "count": 3,
   "results": [
     {
@@ -13,7 +13,7 @@
       "numComments": 2,
       "queryName": "claude_powerpoint",
       "query": "claude powerpoint",
-      "match_mode": "seen",
+      "match_mode": "llm",
       "pptx_present": false
     },
     {
