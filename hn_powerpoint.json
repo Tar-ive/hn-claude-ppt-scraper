@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T05:36:05.747949Z",
+  "generated_at": "2026-03-05T06:32:35.822956Z",
   "count": 3,
   "results": [
     {
@@ -27,7 +27,7 @@
       "numComments": 2,
       "queryName": "claude_powerpoint_skill",
       "query": "claude powerpoint skill",
-      "match_mode": "seen",
+      "match_mode": "llm",
       "pptx_present": false
     },
     {
