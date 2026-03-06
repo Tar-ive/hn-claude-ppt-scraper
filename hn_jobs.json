@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-06T16:28:11.609800Z",
+  "generated_at": "2026-03-06T17:27:46.666192Z",
   "count": 30,
   "results": [
+    {
+      "id": "47277679",
+      "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
+      "url": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
+      "dt": "2026-03-06T17:00:38",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47277679",
+      "numComments": 0
+    },
     {
       "id": "47271858",
       "title": "Stardex (YC S21) is hiring customer success engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47049744",
-      "numComments": 0
-    },
-    {
-      "id": "47040268",
-      "title": "Turing Labs (YC W20) Is Hiring \u2013 Founding GTM Sales Hacker",
-      "url": "https://news.ycombinator.com/item?id=47040268",
-      "dt": "2026-02-16T21:00:13",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47040268",
       "numComments": 0
     }
   ]
