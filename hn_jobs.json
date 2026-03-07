@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-07T16:25:58.171099Z",
+  "generated_at": "2026-03-07T17:25:03.925772Z",
   "count": 30,
   "results": [
+    {
+      "id": "47289357",
+      "title": "SigNoz (YC W21, open source Datadog) Is Hiring across roles",
+      "url": "https://signoz.io/careers",
+      "dt": "2026-03-07T17:01:14",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47289357",
+      "numComments": 0
+    },
     {
       "id": "47277679",
       "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47053267",
-      "numComments": 0
-    },
-    {
-      "id": "47049744",
-      "title": "Trata (YC W25) Is Hiring Founding Engineers (NYC)",
-      "url": "https://news.ycombinator.com/item?id=47049744",
-      "dt": "2026-02-17T17:01:15",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47049744",
       "numComments": 0
     }
   ]
