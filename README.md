@@ -58,11 +58,11 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 <!-- HN_TABLE_START -->
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
-| https://news.ycombinator.com/item?id=47231772 | https://www.ablo.finance/ | 2026-03-03T13:10:05Z | no | regex |
-| https://news.ycombinator.com/item?id=47231772 | https://www.ablo.finance/ | 2026-03-03T13:10:05Z | no | regex |
-| https://news.ycombinator.com/item?id=47198670 | https://mag.openrockets.com | 2026-02-28T18:33:42Z | no | regex |
+| https://news.ycombinator.com/item?id=47231772 | https://www.ablo.finance/ | 2026-03-03T13:10:05Z | no | seen |
+| https://news.ycombinator.com/item?id=47231772 | https://www.ablo.finance/ | 2026-03-03T13:10:05Z | no | seen |
+| https://news.ycombinator.com/item?id=47198670 | https://mag.openrockets.com | 2026-02-28T18:33:42Z | no | seen |
 
-_Last updated: 2026-03-10T09:45:35.883337Z_
+_Last updated: 2026-03-10T10:44:01.467197Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
