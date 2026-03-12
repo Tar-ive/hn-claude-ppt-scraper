@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T04:02:13.811604Z",
+  "generated_at": "2026-03-12T04:54:34.248619Z",
   "count": 3,
   "results": [
     {
@@ -13,7 +13,7 @@
       "numComments": 2,
       "queryName": "claude_powerpoint",
       "query": "claude powerpoint",
-      "match_mode": "seen",
+      "match_mode": "regex",
       "pptx_present": false
     },
     {
@@ -27,7 +27,7 @@
       "numComments": 2,
       "queryName": "claude_powerpoint_skill",
       "query": "claude powerpoint skill",
-      "match_mode": "seen",
+      "match_mode": "regex",
       "pptx_present": false
     },
     {
@@ -41,7 +41,7 @@
       "numComments": 1,
       "queryName": "visa_support",
       "query": "visa sponsorship",
-      "match_mode": "seen",
+      "match_mode": "regex",
       "pptx_present": false
     }
   ]
