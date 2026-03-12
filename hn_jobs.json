@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T13:41:45.779334Z",
-  "count": 30,
+  "generated_at": "2026-03-12T14:33:23.141003Z",
+  "count": 31,
   "results": [
     {
       "id": "47341760",
@@ -300,6 +300,16 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47058106",
+      "numComments": 0
+    },
+    {
+      "id": "47351089",
+      "title": "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
+      "url": "https://jobs.ashbyhq.com/hive.co",
+      "dt": "2026-03-12T14:32:46",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47351089",
       "numComments": 0
     }
   ]
