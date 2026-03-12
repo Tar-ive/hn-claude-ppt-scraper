@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-12T14:33:23.141003Z",
-  "count": 31,
+  "generated_at": "2026-03-12T15:37:14.361018Z",
+  "count": 30,
   "results": [
+    {
+      "id": "47351089",
+      "title": "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
+      "url": "https://jobs.ashbyhq.com/hive.co",
+      "dt": "2026-03-12T14:32:46",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47351089",
+      "numComments": 0
+    },
     {
       "id": "47341760",
       "title": "Meticulous (YC S21) is hiring to redefine software dev",
@@ -290,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47060117",
-      "numComments": 0
-    },
-    {
-      "id": "47058106",
-      "title": "Stardex (YC S21) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration",
-      "dt": "2026-02-18T07:01:28",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47058106",
-      "numComments": 0
-    },
-    {
-      "id": "47351089",
-      "title": "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
-      "url": "https://jobs.ashbyhq.com/hive.co",
-      "dt": "2026-03-12T14:32:46",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47351089",
       "numComments": 0
     }
   ]
