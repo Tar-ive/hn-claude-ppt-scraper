@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-12T16:37:46.422242Z",
+  "generated_at": "2026-03-12T17:33:51.964170Z",
   "count": 30,
   "results": [
+    {
+      "id": "47353904",
+      "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
+      "url": "https://www.runconverge.com/careers/founding-platform-engineer",
+      "dt": "2026-03-12T17:01:46",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47353904",
+      "numComments": 0
+    },
     {
       "id": "47351089",
       "title": "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47063220",
-      "numComments": 0
-    },
-    {
-      "id": "47060117",
-      "title": "Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers",
-      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
-      "dt": "2026-02-18T12:00:50",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47060117",
       "numComments": 0
     }
   ]
