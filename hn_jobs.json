@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-14T13:33:39.473950Z",
+  "generated_at": "2026-03-14T14:26:17.100634Z",
   "count": 30,
   "results": [
+    {
+      "id": "47376619",
+      "title": "Mothers Defense (YC X26) Is Hiring in Austin",
+      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+      "dt": "2026-03-14T13:45:04",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47376619",
+      "numComments": 0
+    },
     {
       "id": "47353904",
       "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer (NYC, Onsite)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47063338",
-      "numComments": 0
-    },
-    {
-      "id": "47063220",
-      "title": "Flexport Is Hiring Engineers in Amsterdam",
-      "url": "https://flexport.com/careers",
-      "dt": "2026-02-18T17:01:05",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47063220",
       "numComments": 0
     }
   ]
