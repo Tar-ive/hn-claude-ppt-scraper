@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-16T16:39:41.285552Z",
+  "generated_at": "2026-03-16T17:38:24.172093Z",
   "count": 30,
   "results": [
+    {
+      "id": "47401618",
+      "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
+      "url": "https://www.kaizenautomation.com/careers",
+      "dt": "2026-03-16T17:00:17",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47401618",
+      "numComments": 0
+    },
     {
       "id": "47397842",
       "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47066310",
-      "numComments": 0
-    },
-    {
-      "id": "47064105",
-      "title": "Activeloop (YC S18) Is Hiring Back End Engineer (Go)",
-      "url": "https://app.dover.com/apply/Activeloop/72d0b3a7-7e86-46a8-9aff-b430ffe0b97f",
-      "dt": "2026-02-18T18:09:27",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47064105",
       "numComments": 0
     }
   ]
