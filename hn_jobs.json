@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-16T11:33:35.914531Z",
+  "generated_at": "2026-03-16T12:35:06.288289Z",
   "count": 30,
   "results": [
+    {
+      "id": "47397842",
+      "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
+      "url": "https://jobs.ashbyhq.com/Nango",
+      "dt": "2026-03-16T12:03:13",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47397842",
+      "numComments": 0
+    },
     {
       "id": "47376619",
       "title": "9 Mothers Defense (YC P26) Is Hiring in Austin",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47064105",
-      "numComments": 0
-    },
-    {
-      "id": "47063338",
-      "title": "Weave (YC W25) Is Hiring ML, Design, and Product Engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "dt": "2026-02-18T17:10:18",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47063338",
       "numComments": 0
     }
   ]
