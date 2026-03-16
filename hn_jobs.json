@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-16T20:27:54.894113Z",
+  "generated_at": "2026-03-16T21:28:03.230446Z",
   "count": 30,
   "results": [
+    {
+      "id": "47404801",
+      "title": "AnswerThis (YC F25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
+      "dt": "2026-03-16T21:00:06",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47404801",
+      "numComments": 0
+    },
     {
       "id": "47401618",
       "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47086946",
-      "numComments": 0
-    },
-    {
-      "id": "47066310",
-      "title": "Metriport (YC S22) is hiring a security engineer to harden healthcare infra",
-      "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
-      "dt": "2026-02-18T21:00:32",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47066310",
       "numComments": 0
     }
   ]
