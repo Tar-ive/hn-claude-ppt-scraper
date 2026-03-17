@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-17T16:40:42.646847Z",
+  "generated_at": "2026-03-17T17:38:11.811428Z",
   "count": 30,
   "results": [
+    {
+      "id": "47415350",
+      "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
+      "url": "https://www.ycombinator.com/companies/spice-data/jobs/P0e9MKz-product-specialist-new-grad",
+      "dt": "2026-03-17T17:00:50",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47415350",
+      "numComments": 0
+    },
     {
       "id": "47404801",
       "title": "AnswerThis (YC F25) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47087954",
-      "numComments": 0
-    },
-    {
-      "id": "47086946",
-      "title": "Hyperbound (YC S23, Series A) needs a Engineer with something to prove",
-      "url": "https://www.ycombinator.com/companies/hyperbound/jobs/UCvdGiu-a-full-stack-engineer-with-something-to-prove",
-      "dt": "2026-02-20T12:01:14",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47086946",
       "numComments": 0
     }
   ]
