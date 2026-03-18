@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-18T06:40:12.737947Z",
+  "generated_at": "2026-03-18T07:37:34.714872Z",
   "count": 30,
   "results": [
+    {
+      "id": "47422408",
+      "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
+      "url": "https://ndea.com/jobs/search-guidance",
+      "dt": "2026-03-18T07:00:13",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47422408",
+      "numComments": 0
+    },
     {
       "id": "47415350",
       "title": "Spice Data (YC S19) Is Hiring a Product Specialist",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47090610",
-      "numComments": 0
-    },
-    {
-      "id": "47087954",
-      "title": "9 Mothers (YC X26) Is Hiring",
-      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-      "dt": "2026-02-20T13:44:42",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47087954",
       "numComments": 0
     }
   ]
