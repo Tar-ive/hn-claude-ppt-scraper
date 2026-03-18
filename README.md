@@ -58,10 +58,9 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 <!-- HN_TABLE_START -->
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
-| https://news.ycombinator.com/item?id=47231772 | https://www.ablo.finance/ | 2026-03-03T13:10:05Z | no | seen |
-| https://news.ycombinator.com/item?id=47231772 | https://www.ablo.finance/ | 2026-03-03T13:10:05Z | no | seen |
+| (none) | | | | |
 
-_Last updated: 2026-03-18T12:34:53.574130Z_
+_Last updated: 2026-03-18T13:51:16.329220Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions

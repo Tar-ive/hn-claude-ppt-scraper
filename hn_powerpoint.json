@@ -1,34 +1,5 @@
 {
-  "generated_at": "2026-03-18T12:34:51.006354Z",
-  "count": 2,
-  "results": [
-    {
-      "id": "47231772",
-      "title": "Show HN: Ablo - AI slides without the generic look or layout restrictions",
-      "url": "https://www.ablo.finance/",
-      "points": 3,
-      "submitter": "lukasanderss",
-      "dt": "2026-03-03T13:10:05Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=47231772",
-      "numComments": 2,
-      "queryName": "claude_powerpoint",
-      "query": "claude powerpoint",
-      "match_mode": "seen",
-      "pptx_present": false
-    },
-    {
-      "id": "47231772",
-      "title": "Show HN: Ablo - AI slides without the generic look or layout restrictions",
-      "url": "https://www.ablo.finance/",
-      "points": 3,
-      "submitter": "lukasanderss",
-      "dt": "2026-03-03T13:10:05Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=47231772",
-      "numComments": 2,
-      "queryName": "claude_powerpoint_skill",
-      "query": "claude powerpoint skill",
-      "match_mode": "seen",
-      "pptx_present": false
-    }
-  ]
+  "generated_at": "2026-03-18T13:51:15.613213Z",
+  "count": 0,
+  "results": []
 }
