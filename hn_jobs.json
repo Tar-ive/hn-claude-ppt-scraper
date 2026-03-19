@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-19T16:36:53.046471Z",
+  "generated_at": "2026-03-19T17:37:06.832853Z",
   "count": 30,
   "results": [
+    {
+      "id": "47442774",
+      "title": "Gauntlet AI (YC S17): Fly you to Austin, train you in AI, give you $200k+ job",
+      "url": "https://gauntletai.com/apply?utm_src=hackernews",
+      "dt": "2026-03-19T17:22:05",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47442774",
+      "numComments": 0
+    },
     {
       "id": "47422408",
       "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47099982",
-      "numComments": 0
-    },
-    {
-      "id": "47090610",
-      "title": "Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health",
-      "url": "https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424",
-      "dt": "2026-02-20T17:02:15",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47090610",
       "numComments": 0
     }
   ]
