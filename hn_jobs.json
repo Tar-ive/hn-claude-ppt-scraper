@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-26T06:42:29.506344Z",
+  "generated_at": "2026-03-26T10:34:44.833787Z",
   "count": 30,
   "results": [
+    {
+      "id": "47527399",
+      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
+      "dt": "2026-03-26T07:00:28",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47527399",
+      "numComments": 0
+    },
     {
       "id": "47506490",
       "title": "Lago (YC S21) Is Hiring Product Engineers (Growth Team)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47125026",
-      "numComments": 0
-    },
-    {
-      "id": "47118990",
-      "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
-      "url": "https://bitmovin.com/careers/8023403002/",
-      "dt": "2026-02-23T07:01:20",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47118990",
       "numComments": 0
     }
   ]
