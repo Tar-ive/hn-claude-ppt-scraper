@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-28T21:26:19.540084Z",
+  "generated_at": "2026-03-28T22:26:18.247055Z",
   "count": 30,
   "results": [
+    {
+      "id": "47558305",
+      "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
+      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+      "dt": "2026-03-28T21:35:22",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47558305",
+      "numComments": 0
+    },
     {
       "id": "47553796",
       "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47139475",
-      "numComments": 0
-    },
-    {
-      "id": "47128740",
-      "title": "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
-      "url": "https://www.ycombinator.com/companies/sim/jobs/Rj8TVRM-software-engineer-platform",
-      "dt": "2026-02-23T21:00:28",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47128740",
       "numComments": 0
     }
   ]
