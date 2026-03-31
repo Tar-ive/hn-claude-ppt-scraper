@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-03-31T05:01:13.676513Z",
+  "generated_at": "2026-03-31T08:39:07.500820Z",
   "count": 30,
   "results": [
+    {
+      "id": "47583712",
+      "title": "RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+      "dt": "2026-03-31T07:01:15",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47583712",
+      "numComments": 0
+    },
     {
       "id": "47558305",
       "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47145911",
-      "numComments": 0
-    },
-    {
-      "id": "47139475",
-      "title": "Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng",
-      "url": "https://jobs.ashbyhq.com/verge-genomics",
-      "dt": "2026-02-24T17:00:34",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47139475",
       "numComments": 0
     }
   ]
