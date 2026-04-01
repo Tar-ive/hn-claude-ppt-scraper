@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-01T17:34:55.394372Z",
+  "generated_at": "2026-04-01T22:27:25.363264Z",
   "count": 30,
   "results": [
+    {
+      "id": "47606495",
+      "title": "InspectMind AI (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
+      "dt": "2026-04-01T21:00:06",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47606495",
+      "numComments": 0
+    },
     {
       "id": "47599673",
       "title": "Wasmer (YC S19) Is Hiring \u2013 Rust and DevRel Positions",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47154246",
-      "numComments": 0
-    },
-    {
-      "id": "47150403",
-      "title": "Event Horizon Labs (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/event-horizon-labs/jobs/xGQicps-founding-infrastructure-engineer",
-      "dt": "2026-02-25T12:01:11",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47150403",
       "numComments": 0
     }
   ]
