@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-01T11:35:08.385279Z",
+  "generated_at": "2026-04-01T12:38:06.198120Z",
   "count": 30,
   "results": [
+    {
+      "id": "47599673",
+      "title": "Wasmer (YC S19) Is Hiring \u2013 Rust and DevRel Positions",
+      "url": "https://www.workatastartup.com/companies/wasmer",
+      "dt": "2026-04-01T12:00:17",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47599673",
+      "numComments": 0
+    },
     {
       "id": "47583712",
       "title": "RamAIn (YC W26) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47150403",
-      "numComments": 0
-    },
-    {
-      "id": "47145911",
-      "title": "Corgi Labs (YC W23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/corgi-labs/jobs/ZiEIf7a-founders-associate",
-      "dt": "2026-02-25T01:01:02",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47145911",
       "numComments": 0
     }
   ]
