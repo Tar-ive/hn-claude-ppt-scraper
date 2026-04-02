@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-02T20:27:20.893625Z",
+  "generated_at": "2026-04-02T23:27:15.323922Z",
   "count": 30,
   "results": [
+    {
+      "id": "47620857",
+      "title": "ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)",
+      "url": "https://paradedb.notion.site/",
+      "dt": "2026-04-02T22:13:03",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47620857",
+      "numComments": 0
+    },
     {
       "id": "47618602",
       "title": "Zep AI Is Hiring \u2013 Building the Agent Context Layer (YC W24)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47175013",
-      "numComments": 0
-    },
-    {
-      "id": "47168721",
-      "title": "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
-      "url": "https://www.workatastartup.com/jobs/80596",
-      "dt": "2026-02-26T17:00:25",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47168721",
       "numComments": 0
     }
   ]
