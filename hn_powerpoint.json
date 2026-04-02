@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-04-02T11:32:48.993336Z",
-  "count": 1,
+  "generated_at": "2026-04-02T13:52:10.529997Z",
+  "count": 2,
   "results": [
+    {
+      "id": "47613924",
+      "title": "Show HN: Show HN: Tycoslide \u2013 Editable PowerPoint Slides from Markdown and TS",
+      "url": "https://github.com/tycoworks/tycoslide",
+      "points": 1,
+      "submitter": "chrisanderson85",
+      "dt": "2026-04-02T13:04:13Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=47613924",
+      "numComments": 0,
+      "queryName": "claude_powerpoint",
+      "query": "claude powerpoint",
+      "match_mode": "llm",
+      "pptx_present": false
+    },
     {
       "id": "47506381",
       "title": "A map showing all startups hiring in Bangalore",
