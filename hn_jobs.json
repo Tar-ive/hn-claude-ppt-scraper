@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-02T18:34:25.455134Z",
+  "generated_at": "2026-04-02T20:27:20.893625Z",
   "count": 30,
   "results": [
+    {
+      "id": "47618602",
+      "title": "Zep AI Is Hiring \u2013 Building the Agent Context Layer (YC W24)",
+      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
+      "dt": "2026-04-02T18:50:45",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47618602",
+      "numComments": 0
+    },
     {
       "id": "47611044",
       "title": "Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47168721",
-      "numComments": 0
-    },
-    {
-      "id": "47164933",
-      "title": "Hightouch (YC S19) Is Hiring",
-      "url": "https://hightouch.com/careers#open-positions",
-      "dt": "2026-02-26T12:02:14",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47164933",
       "numComments": 0
     }
   ]
