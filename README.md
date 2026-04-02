@@ -60,7 +60,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=47506381 | https://www.blrstartuparena.com/map | 2026-03-24T17:39:35Z | no | seen |
 
-_Last updated: 2026-04-02T00:55:22.444371Z_
+_Last updated: 2026-04-02T01:57:01.230443Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
