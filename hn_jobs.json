@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-03T20:27:21.256744Z",
+  "generated_at": "2026-04-03T21:27:00.621971Z",
   "count": 30,
   "results": [
+    {
+      "id": "47632460",
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "url": "https://jobs.ashbyhq.com/charge-robotics",
+      "dt": "2026-04-03T21:21:13",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47632460",
+      "numComments": 0
+    },
     {
       "id": "47620857",
       "title": "ParadeDB (YC S23) Is Hiring Database Internal Engineers (Rust)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47178176",
-      "numComments": 0
-    },
-    {
-      "id": "47175013",
-      "title": "LiteLLM (YC W23): Founding Reliability Engineer \u2013 $200K-$270K and 0.5-1.0% equity",
-      "url": "https://www.ycombinator.com/companies/litellm/jobs/unlCynJ-founding-reliability-performance-engineer",
-      "dt": "2026-02-27T01:18:18",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47175013",
       "numComments": 0
     }
   ]
