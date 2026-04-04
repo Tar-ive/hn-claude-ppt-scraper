@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-04T11:26:19.698084Z",
+  "generated_at": "2026-04-04T13:37:16.024553Z",
   "count": 30,
   "results": [
+    {
+      "id": "47638270",
+      "title": "Mbodi AI (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+      "dt": "2026-04-04T12:00:38",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47638270",
+      "numComments": 0
+    },
     {
       "id": "47632460",
       "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47183907",
-      "numComments": 0
-    },
-    {
-      "id": "47178176",
-      "title": "Ubicloud (YC W24): Software Engineer \u2013 $95-$250K in Turkey, Netherlands, CA",
-      "url": "https://www.ycombinator.com/companies/ubicloud/jobs/j4bntEJ-software-engineer",
-      "dt": "2026-02-27T08:45:02",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47178176",
       "numComments": 0
     }
   ]
