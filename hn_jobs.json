@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-10T03:24:40.174240Z",
+  "generated_at": "2026-04-10T08:48:13.904004Z",
   "count": 30,
   "results": [
+    {
+      "id": "47713744",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer",
+      "dt": "2026-04-10T04:43:05",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47713744",
+      "numComments": 0
+    },
     {
       "id": "47675302",
       "title": "9 Mothers (YC P26) Is Hiring \u2013 Lead Robotics and More",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47271858",
-      "numComments": 0
-    },
-    {
-      "id": "47267236",
-      "title": "Structured AI (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/structured-ai/jobs/3cQY6Cu-mechanical-design-engineer-founding-team-consultant",
-      "dt": "2026-03-05T21:01:30",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47267236",
       "numComments": 0
     }
   ]

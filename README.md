@@ -60,7 +60,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=47613924 | https://github.com/tycoworks/tycoslide | 2026-04-02T13:04:13Z | no | llm |
 
-_Last updated: 2026-04-10T03:24:44.501648Z_
+_Last updated: 2026-04-10T08:48:20.335944Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
