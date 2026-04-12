@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-12T16:27:23.398293Z",
+  "generated_at": "2026-04-12T17:27:29.776468Z",
   "count": 30,
   "results": [
+    {
+      "id": "47741953",
+      "title": "EasyPost (YC S13) Is Hiring",
+      "url": "https://www.easypost.com/careers",
+      "dt": "2026-04-12T17:01:26",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47741953",
+      "numComments": 0
+    },
     {
       "id": "47720918",
       "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47289357",
-      "numComments": 0
-    },
-    {
-      "id": "47277679",
-      "title": "Multifactor (YC F25) Is Hiring an Engineering Lead",
-      "url": "https://www.ycombinator.com/companies/multifactor/jobs/lcpd60A-engineering-lead",
-      "dt": "2026-03-06T17:00:38",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47277679",
       "numComments": 0
     }
   ]
