@@ -58,9 +58,9 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 <!-- HN_TABLE_START -->
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
-| https://news.ycombinator.com/item?id=47613924 | https://github.com/tycoworks/tycoslide | 2026-04-02T13:04:13Z | no | seen |
+| https://news.ycombinator.com/item?id=47613924 | https://github.com/tycoworks/tycoslide | 2026-04-02T13:04:13Z | no | llm |
 
-_Last updated: 2026-04-15T01:04:11.092603Z_
+_Last updated: 2026-04-15T05:10:49.682154Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
