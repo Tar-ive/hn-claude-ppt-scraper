@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-15T16:37:40.666200Z",
+  "generated_at": "2026-04-15T21:35:06.947591Z",
   "count": 30,
   "results": [
+    {
+      "id": "47781912",
+      "title": "Adaptional (YC S25) is hiring AI engineers",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
+      "dt": "2026-04-15T17:00:56",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47781912",
+      "numComments": 0
+    },
     {
       "id": "47777902",
       "title": "Proliferate (YC S25) Is Hiring Founding Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47353904",
-      "numComments": 0
-    },
-    {
-      "id": "47351089",
-      "title": "Hive (YC S14) is hiring scrappy product managers and product/data engineers",
-      "url": "https://jobs.ashbyhq.com/hive.co",
-      "dt": "2026-03-12T14:32:46",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47351089",
       "numComments": 0
     }
   ]
