@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-15T11:36:42.949638Z",
+  "generated_at": "2026-04-15T13:54:45.428973Z",
   "count": 30,
   "results": [
+    {
+      "id": "47777902",
+      "title": "Proliferate (YC S25) Is Hiring Founding Engineers",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "dt": "2026-04-15T12:00:44",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47777902",
+      "numComments": 0
+    },
     {
       "id": "47775606",
       "title": "MDalgorithms (AI Healthcare) \u2013 Hiring Growth Marketer \u2013 Remote \u2013 $80K-$140K",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47351089",
-      "numComments": 0
-    },
-    {
-      "id": "47341760",
-      "title": "Meticulous (YC S21) is hiring to redefine software dev",
-      "url": "https://jobs.ashbyhq.com/meticulous/3197ae3d-bb26-4750-9ed7-b830f640515e",
-      "dt": "2026-03-11T21:01:42",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47341760",
       "numComments": 0
     }
   ]
