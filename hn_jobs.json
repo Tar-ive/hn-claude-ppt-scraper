@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-17T18:34:36.327607Z",
+  "generated_at": "2026-04-17T21:29:17.939418Z",
   "count": 30,
   "results": [
+    {
+      "id": "47810507",
+      "title": "Arc Prize Foundation (YC W26) Is Hiring a Platform Engineer for ARC-AGI-4",
+      "url": "https://www.ycombinator.com/companies/arc-prize-foundation/jobs/AKZRZDN-platform-engineer-benchmark-lead",
+      "dt": "2026-04-17T21:00:08",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47810507",
+      "numComments": 0
+    },
     {
       "id": "47808047",
       "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47415350",
-      "numComments": 0
-    },
-    {
-      "id": "47404801",
-      "title": "AnswerThis (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/answerthis/jobs/CNdatw5-founding-engineering-lead",
-      "dt": "2026-03-16T21:00:06",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47404801",
       "numComments": 0
     }
   ]
