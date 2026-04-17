@@ -1,20 +1,5 @@
 {
-  "generated_at": "2026-04-17T12:38:59.731212Z",
-  "count": 1,
-  "results": [
-    {
-      "id": "47613924",
-      "title": "Show HN: Show HN: Tycoslide \u2013 Editable PowerPoint Slides from Markdown and TS",
-      "url": "https://github.com/tycoworks/tycoslide",
-      "points": 1,
-      "submitter": "chrisanderson85",
-      "dt": "2026-04-02T13:04:13Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=47613924",
-      "numComments": 0,
-      "queryName": "claude_powerpoint",
-      "query": "claude powerpoint",
-      "match_mode": "seen",
-      "pptx_present": false
-    }
-  ]
+  "generated_at": "2026-04-17T13:53:11.552234Z",
+  "count": 0,
+  "results": []
 }
