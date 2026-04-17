@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-17T01:03:37.240629Z",
+  "generated_at": "2026-04-17T07:55:08.378434Z",
   "count": 30,
   "results": [
+    {
+      "id": "47802016",
+      "title": "Substrate AI Is Hiring Harness Engineers",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/QJU9023-harness-engineer",
+      "dt": "2026-04-17T02:53:16",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47802016",
+      "numComments": 0
+    },
     {
       "id": "47799454",
       "title": "Join Akkari's Founding Team (YC P26) as an Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47401618",
-      "numComments": 0
-    },
-    {
-      "id": "47397842",
-      "title": "Nango (YC W23, API Access for Agents and Apps) Is Hiring",
-      "url": "https://jobs.ashbyhq.com/Nango",
-      "dt": "2026-03-16T12:03:13",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47397842",
       "numComments": 0
     }
   ]
