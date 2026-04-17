@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-17T15:38:59.282433Z",
+  "generated_at": "2026-04-17T17:33:53.985821Z",
   "count": 30,
   "results": [
+    {
+      "id": "47808047",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/TcEa3b5-head-of-engineering",
+      "dt": "2026-04-17T17:01:13",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47808047",
+      "numComments": 0
+    },
     {
       "id": "47802016",
       "title": "Substrate AI Is Hiring Harness Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47404801",
-      "numComments": 0
-    },
-    {
-      "id": "47401618",
-      "title": "Kaizen (YC P25) Hiring Eng, GTM, Cos to Automate BPOs",
-      "url": "https://www.kaizenautomation.com/careers",
-      "dt": "2026-03-16T17:00:17",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47401618",
       "numComments": 0
     }
   ]
