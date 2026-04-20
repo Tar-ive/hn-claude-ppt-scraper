@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-20T14:57:58.838220Z",
+  "generated_at": "2026-04-20T17:37:52.456106Z",
   "count": 30,
   "results": [
+    {
+      "id": "47837176",
+      "title": "Bloom (YC P26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/trybloom/jobs",
+      "dt": "2026-04-20T17:00:45",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47837176",
+      "numComments": 0
+    },
     {
       "id": "47817473",
       "title": "UpCodes (YC S17) is hiring SDRs to help make construction more productive",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47485231",
-      "numComments": 0
-    },
-    {
-      "id": "47422408",
-      "title": "Ndea (YC W26) is hiring a symbolic RL search guidance lead",
-      "url": "https://ndea.com/jobs/search-guidance",
-      "dt": "2026-03-18T07:00:13",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47422408",
       "numComments": 0
     }
   ]
