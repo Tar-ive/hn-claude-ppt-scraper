@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-21T12:41:07.642230Z",
+  "generated_at": "2026-04-21T17:37:20.487789Z",
   "count": 30,
   "results": [
+    {
+      "id": "47851456",
+      "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+      "dt": "2026-04-21T17:01:15",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47851456",
+      "numComments": 0
+    },
     {
       "id": "47837176",
       "title": "Bloom (YC P26) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47506490",
-      "numComments": 0
-    },
-    {
-      "id": "47485231",
-      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "dt": "2026-03-23T03:33:41",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47485231",
       "numComments": 0
     }
   ]
