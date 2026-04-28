@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-28T16:55:30.615353Z",
+  "generated_at": "2026-04-28T17:53:52.133618Z",
   "count": 30,
   "results": [
+    {
+      "id": "47937203",
+      "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
+      "url": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
+      "dt": "2026-04-28T17:00:06",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47937203",
+      "numComments": 0
+    },
     {
       "id": "47908047",
       "title": "Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47553796",
-      "numComments": 0
-    },
-    {
-      "id": "47527399",
-      "title": "Ashby (YC W19) Is Hiring Engineers Who Make Product Decisions",
-      "url": "https://www.ashbyhq.com/careers?ashby_jid=c3c7125d-7883-4dff-a2bf-f5a55de4a364&utm_source=hn",
-      "dt": "2026-03-26T07:00:28",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47527399",
       "numComments": 0
     }
   ]
