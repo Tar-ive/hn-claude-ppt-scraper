@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-04-22T05:56:46.932028Z",
+  "generated_at": "2026-04-28T10:57:11.539726Z",
   "count": 30,
   "results": [
+    {
+      "id": "47908047",
+      "title": "Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence)",
+      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
+      "dt": "2026-04-26T07:00:10",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47908047",
+      "numComments": 0
+    },
+    {
+      "id": "47874734",
+      "title": "Jiga (YC W21) Is Hiring",
+      "url": "https://jiga.io/about-us/",
+      "dt": "2026-04-23T12:02:44",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47874734",
+      "numComments": 0
+    },
     {
       "id": "47851456",
       "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
@@ -60,16 +80,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47802016",
-      "numComments": 0
-    },
-    {
-      "id": "47799454",
-      "title": "Join Akkari's Founding Team (YC P26) as an Engineer",
-      "url": "https://news.ycombinator.com/item?id=47799454",
-      "dt": "2026-04-16T21:00:33",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47799454",
       "numComments": 0
     },
     {
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47527399",
-      "numComments": 0
-    },
-    {
-      "id": "47506490",
-      "title": "Lago (YC S21) Is Hiring Product Engineers (Growth Team)",
-      "url": "https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link",
-      "dt": "2026-03-24T17:47:23",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47506490",
       "numComments": 0
     }
   ]
