@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-29T18:48:28.287556Z",
+  "generated_at": "2026-04-29T22:36:53.687976Z",
   "count": 30,
   "results": [
+    {
+      "id": "47955226",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
+      "dt": "2026-04-29T21:50:57",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47955226",
+      "numComments": 0
+    },
     {
       "id": "47947125",
       "title": "Stardex Is Hiring a Founding Customer Success Lead",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47583712",
-      "numComments": 0
-    },
-    {
-      "id": "47558305",
-      "title": "InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
-      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
-      "dt": "2026-03-28T21:35:22",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47558305",
       "numComments": 0
     }
   ]
