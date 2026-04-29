@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-04-29T10:55:41.505188Z",
+  "generated_at": "2026-04-29T13:56:01.129509Z",
   "count": 30,
   "results": [
+    {
+      "id": "47947125",
+      "title": "Stardex Is Hiring a Founding Customer Success Lead",
+      "url": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
+      "dt": "2026-04-29T12:00:17",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47947125",
+      "numComments": 0
+    },
     {
       "id": "47937203",
       "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47558305",
-      "numComments": 0
-    },
-    {
-      "id": "47553796",
-      "title": "Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers",
-      "url": "https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer",
-      "dt": "2026-03-28T12:01:07",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47553796",
       "numComments": 0
     }
   ]
