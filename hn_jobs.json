@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-02T03:24:50.374232Z",
+  "generated_at": "2026-05-02T09:41:06.430794Z",
   "count": 30,
   "results": [
+    {
+      "id": "47983385",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
+      "dt": "2026-05-02T04:43:20",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=47983385",
+      "numComments": 0
+    },
     {
       "id": "47955226",
       "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47599673",
-      "numComments": 0
-    },
-    {
-      "id": "47583712",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-      "dt": "2026-03-31T07:01:15",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47583712",
       "numComments": 0
     }
   ]
