@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-05T11:44:05.196590Z",
+  "generated_at": "2026-05-05T17:49:00.818214Z",
   "count": 30,
   "results": [
+    {
+      "id": "48025244",
+      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "dt": "2026-05-05T17:00:16",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48025244",
+      "numComments": 0
+    },
     {
       "id": "47983385",
       "title": "CollectWise (YC F24) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47606495",
-      "numComments": 0
-    },
-    {
-      "id": "47599673",
-      "title": "Wasmer (YC S19) Is Hiring \u2013 Rust and DevRel Positions",
-      "url": "https://www.workatastartup.com/companies/wasmer",
-      "dt": "2026-04-01T12:00:17",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47599673",
       "numComments": 0
     }
   ]
