@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-06T01:05:54.380397Z",
+  "generated_at": "2026-05-06T12:56:34.570266Z",
   "count": 30,
   "results": [
+    {
+      "id": "48035223",
+      "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "dt": "2026-05-06T12:00:24",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48035223",
+      "numComments": 0
+    },
     {
       "id": "48025244",
       "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47611044",
-      "numComments": 0
-    },
-    {
-      "id": "47606495",
-      "title": "InspectMind AI (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
-      "dt": "2026-04-01T21:00:06",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47606495",
       "numComments": 0
     }
   ]
