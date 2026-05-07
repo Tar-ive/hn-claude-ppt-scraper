@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-06T21:40:34.993052Z",
+  "generated_at": "2026-05-07T21:35:08.522401Z",
   "count": 30,
   "results": [
+    {
+      "id": "48048339",
+      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
+      "dt": "2026-05-07T12:01:13",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48048339",
+      "numComments": 0
+    },
     {
       "id": "48035223",
       "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47618602",
-      "numComments": 0
-    },
-    {
-      "id": "47611044",
-      "title": "Telli (YC F24) is hiring engineers, designers, and more (on-site, Berlin)",
-      "url": "http://hi.telli.com/join-us",
-      "dt": "2026-04-02T07:17:50",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47611044",
       "numComments": 0
     }
   ]
