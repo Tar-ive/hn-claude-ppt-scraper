@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-08T19:46:29.633780Z",
+  "generated_at": "2026-05-09T10:34:45.786495Z",
   "count": 30,
   "results": [
+    {
+      "id": "48068732",
+      "title": "Mux (YC W16) Is Hiring",
+      "url": "https://www.mux.com/jobs",
+      "dt": "2026-05-08T21:02:32",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48068732",
+      "numComments": 0
+    },
     {
       "id": "48048339",
       "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47620857",
-      "numComments": 0
-    },
-    {
-      "id": "47618602",
-      "title": "Zep AI Is Hiring \u2013 Building the Agent Context Layer (YC W24)",
-      "url": "https://www.ycombinator.com/companies/zep-ai/jobs",
-      "dt": "2026-04-02T18:50:45",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47618602",
       "numComments": 0
     }
   ]
