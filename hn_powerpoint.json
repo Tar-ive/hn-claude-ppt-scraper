@@ -1,5 +1,20 @@
 {
-  "generated_at": "2026-05-10T10:42:27.751831Z",
-  "count": 0,
-  "results": []
+  "generated_at": "2026-05-11T20:51:55.769402Z",
+  "count": 1,
+  "results": [
+    {
+      "id": "48098884",
+      "title": "Claude can now follow users across Outlook, Word, Excel, and PowerPoint",
+      "url": "https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/",
+      "points": 2,
+      "submitter": "Brajeshwar",
+      "dt": "2026-05-11T18:36:57Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=48098884",
+      "numComments": 0,
+      "queryName": "claude_powerpoint",
+      "query": "claude powerpoint",
+      "match_mode": "llm",
+      "pptx_present": false
+    }
+  ]
 }

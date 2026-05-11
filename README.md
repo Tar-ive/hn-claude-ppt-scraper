@@ -58,9 +58,9 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 <!-- HN_TABLE_START -->
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
-| (none) | | | | |
+| https://news.ycombinator.com/item?id=48098884 | https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/ | 2026-05-11T18:36:57Z | no | llm |
 
-_Last updated: 2026-05-10T10:42:28.467146Z_
+_Last updated: 2026-05-11T20:52:53.003425Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
