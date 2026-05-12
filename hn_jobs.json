@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-12T05:27:48.240928Z",
+  "generated_at": "2026-05-12T22:40:39.848317Z",
   "count": 30,
   "results": [
+    {
+      "id": "48107024",
+      "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+      "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+      "dt": "2026-05-12T12:00:46",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48107024",
+      "numComments": 0
+    },
     {
       "id": "48098122",
       "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47648499",
-      "numComments": 0
-    },
-    {
-      "id": "47638270",
-      "title": "Mbodi AI (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
-      "dt": "2026-04-04T12:00:38",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47638270",
       "numComments": 0
     }
   ]
