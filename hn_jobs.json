@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-12T23:38:31.824025Z",
+  "generated_at": "2026-05-13T18:56:05.187259Z",
   "count": 30,
   "results": [
+    {
+      "id": "48120776",
+      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
+      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
+      "dt": "2026-05-13T12:00:30",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48120776",
+      "numComments": 0
+    },
     {
       "id": "48107024",
       "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47660343",
-      "numComments": 0
-    },
-    {
-      "id": "47648499",
-      "title": "Hightouch (YC S19) Is Hiring",
-      "url": "https://hightouch.com/careers#open-positions",
-      "dt": "2026-04-05T12:03:17",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47648499",
       "numComments": 0
     }
   ]
