@@ -60,7 +60,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=48098884 | https://thenewstack.io/claude-word-excel-powerpoint-outlook-microsoft-office/ | 2026-05-11T18:36:57Z | no | llm |
 
-_Last updated: 2026-05-13T18:56:10.593622Z_
+_Last updated: 2026-05-13T21:47:37.929607Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
