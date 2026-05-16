@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-05-14T21:41:54.500516Z",
+  "generated_at": "2026-05-16T21:33:47.675743Z",
   "count": 30,
   "results": [
+    {
+      "id": "48159405",
+      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
+      "dt": "2026-05-16T12:01:06",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48159405",
+      "numComments": 0
+    },
+    {
+      "id": "48151034",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers",
+      "dt": "2026-05-15T17:01:15",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48151034",
+      "numComments": 0
+    },
+    {
+      "id": "48147533",
+      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
+      "url": "https://signoz.io/careers",
+      "dt": "2026-05-15T12:00:31",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48147533",
+      "numComments": 0
+    },
     {
       "id": "48141191",
       "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
@@ -270,36 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47741953",
-      "numComments": 0
-    },
-    {
-      "id": "47720918",
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
-      "dt": "2026-04-10T17:01:07",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47720918",
-      "numComments": 0
-    },
-    {
-      "id": "47713744",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/Ktc6m6o-ai-agent-engineer",
-      "dt": "2026-04-10T04:43:05",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47713744",
-      "numComments": 0
-    },
-    {
-      "id": "47675302",
-      "title": "9 Mothers (YC P26) Is Hiring \u2013 Lead Robotics and More",
-      "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
-      "dt": "2026-04-07T13:45:26",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47675302",
       "numComments": 0
     }
   ]
