@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-05-17T15:39:22.501836Z",
+  "generated_at": "2026-05-24T17:36:20.246370Z",
   "count": 30,
   "results": [
+    {
+      "id": "48258995",
+      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+      "dt": "2026-05-24T17:00:46",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48258995",
+      "numComments": 0
+    },
+    {
+      "id": "48234688",
+      "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
+      "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
+      "dt": "2026-05-22T12:01:07",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48234688",
+      "numComments": 0
+    },
+    {
+      "id": "48225852",
+      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
+      "url": "https://news.ycombinator.com/item?id=48225852",
+      "dt": "2026-05-21T17:00:52",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48225852",
+      "numComments": 0
+    },
+    {
+      "id": "48221230",
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "dt": "2026-05-21T12:00:20",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48221230",
+      "numComments": 0
+    },
+    {
+      "id": "48219340",
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "dt": "2026-05-21T08:01:53",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48219340",
+      "numComments": 0
+    },
     {
       "id": "48159405",
       "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
@@ -250,56 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47802016",
-      "numComments": 0
-    },
-    {
-      "id": "47789607",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/bwtwd9W-founding-gtm-operations-lead",
-      "dt": "2026-04-16T07:01:29",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47789607",
-      "numComments": 0
-    },
-    {
-      "id": "47781912",
-      "title": "Adaptional (YC S25) is hiring AI engineers",
-      "url": "https://www.ycombinator.com/companies/adaptional/jobs/k7W6ge9-founding-engineer",
-      "dt": "2026-04-15T17:00:56",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47781912",
-      "numComments": 0
-    },
-    {
-      "id": "47777902",
-      "title": "Proliferate (YC S25) Is Hiring Founding Engineers",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "dt": "2026-04-15T12:00:44",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47777902",
-      "numComments": 0
-    },
-    {
-      "id": "47775606",
-      "title": "MDalgorithms (AI Healthcare) \u2013 Hiring Growth Marketer \u2013 Remote \u2013 $80K-$140K",
-      "url": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
-      "dt": "2026-04-15T07:00:18",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47775606",
-      "numComments": 0
-    },
-    {
-      "id": "47741953",
-      "title": "EasyPost (YC S13) Is Hiring",
-      "url": "https://www.easypost.com/careers",
-      "dt": "2026-04-12T17:01:26",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47741953",
       "numComments": 0
     }
   ]
