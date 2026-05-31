@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-05-31T03:26:26.720613Z",
+  "generated_at": "2026-05-31T07:34:35.662383Z",
   "count": 30,
   "results": [
+    {
+      "id": "48343635",
+      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
+      "url": "https://hi.telli.com/join-us",
+      "dt": "2026-05-31T07:00:50",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48343635",
+      "numComments": 0
+    },
     {
       "id": "48322030",
       "title": "Cedana (YC S23) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=47937203",
-      "numComments": 0
-    },
-    {
-      "id": "47908047",
-      "title": "Terra API (YC W21) Hiring: Applied AI Strategist (Health Intelligence)",
-      "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-      "dt": "2026-04-26T07:00:10",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47908047",
       "numComments": 0
     }
   ]
