@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-05-31T20:38:40.745713Z",
+  "generated_at": "2026-06-06T05:36:59.418222Z",
   "count": 30,
   "results": [
+    {
+      "id": "48411227",
+      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+      "url": "https://nango.dev/careers",
+      "dt": "2026-06-05T12:00:18",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48411227",
+      "numComments": 0
+    },
+    {
+      "id": "48401433",
+      "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
+      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
+      "dt": "2026-06-04T17:00:37",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48401433",
+      "numComments": 0
+    },
+    {
+      "id": "48397435",
+      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+      "dt": "2026-06-04T12:00:29",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48397435",
+      "numComments": 0
+    },
+    {
+      "id": "48386588",
+      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
+      "dt": "2026-06-03T17:01:00",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48386588",
+      "numComments": 0
+    },
+    {
+      "id": "48382853",
+      "title": "Piramidal (YC W24) \u2013 Software Engineers \u2013 NYC Onsite",
+      "url": "https://news.ycombinator.com/item?id=48382853",
+      "dt": "2026-06-03T12:00:18",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48382853",
+      "numComments": 0
+    },
+    {
+      "id": "48369098",
+      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
+      "dt": "2026-06-02T12:01:04",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48369098",
+      "numComments": 0
+    },
     {
       "id": "48343635",
       "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
@@ -240,66 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48048339",
-      "numComments": 0
-    },
-    {
-      "id": "48035223",
-      "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
-      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
-      "dt": "2026-05-06T12:00:24",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48035223",
-      "numComments": 0
-    },
-    {
-      "id": "48025244",
-      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "dt": "2026-05-05T17:00:16",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48025244",
-      "numComments": 0
-    },
-    {
-      "id": "47983385",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/rEWfZ6R-senior-forward-deployed-engineer",
-      "dt": "2026-05-02T04:43:20",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47983385",
-      "numComments": 0
-    },
-    {
-      "id": "47955226",
-      "title": "Gooseworks (YC W23) Is Hiring a Founding Growth Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/ztgY6bD-founding-growth-engineer",
-      "dt": "2026-04-29T21:50:57",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47955226",
-      "numComments": 0
-    },
-    {
-      "id": "47947125",
-      "title": "Stardex Is Hiring a Founding Customer Success Lead",
-      "url": "https://www.ycombinator.com/companies/stardex/jobs/6GCK1HC-founding-customer-success-lead",
-      "dt": "2026-04-29T12:00:17",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47947125",
-      "numComments": 0
-    },
-    {
-      "id": "47937203",
-      "title": "Infisical (YC W23) Is Hiring Full Stack Software Engineers (Remote)",
-      "url": "https://jobs.ashbyhq.com/infisical/782b9da8-20e1-48b2-919e-6c5430c58628",
-      "dt": "2026-04-28T17:00:06",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=47937203",
       "numComments": 0
     }
   ]
