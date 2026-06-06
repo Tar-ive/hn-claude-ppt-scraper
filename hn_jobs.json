@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-06T09:56:51.852133Z",
+  "generated_at": "2026-06-06T20:40:05.296702Z",
   "count": 30,
   "results": [
+    {
+      "id": "48424103",
+      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+      "dt": "2026-06-06T12:00:56",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48424103",
+      "numComments": 0
+    },
     {
       "id": "48411227",
       "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48068732",
-      "numComments": 0
-    },
-    {
-      "id": "48048339",
-      "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
-      "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
-      "dt": "2026-05-07T12:01:13",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48048339",
       "numComments": 0
     }
   ]
