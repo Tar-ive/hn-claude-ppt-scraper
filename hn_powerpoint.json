@@ -1,34 +1,5 @@
 {
-  "generated_at": "2026-06-07T09:24:33.167696Z",
-  "count": 2,
-  "results": [
-    {
-      "id": "48255235",
-      "title": "Hiro, AI job matching with real visa sponsorship data (550K jobs)",
-      "url": "https://hirocareers.com",
-      "points": 1,
-      "submitter": "sharvenrane7",
-      "dt": "2026-05-24T07:21:17Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=48255235",
-      "numComments": 0,
-      "queryName": "visa_support",
-      "query": "visa sponsorship",
-      "match_mode": "regex",
-      "pptx_present": false
-    },
-    {
-      "id": "48255692",
-      "title": "Build-time sponsorship verification for OSS libraries installed via NuGet",
-      "url": "https://github.com/SimonCropp/SponsorCheck",
-      "points": 1,
-      "submitter": "lowleveldesign",
-      "dt": "2026-05-24T08:53:29Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=48255692",
-      "numComments": 0,
-      "queryName": "visa_support",
-      "query": "visa sponsorship",
-      "match_mode": "regex",
-      "pptx_present": false
-    }
-  ]
+  "generated_at": "2026-06-15T23:54:13.222568Z",
+  "count": 0,
+  "results": []
 }
