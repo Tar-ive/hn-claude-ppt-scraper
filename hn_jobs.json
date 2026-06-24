@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-06-15T23:54:09.640162Z",
+  "generated_at": "2026-06-24T11:17:35.366954Z",
   "count": 30,
   "results": [
+    {
+      "id": "48656219",
+      "title": "Ashby (YC W19) Is Hiring EMEA Engineers Who Can Design",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=87b96eef-edc1-4de4-adb6-d460126d02f8&utm_source=hn",
+      "dt": "2026-06-24T07:01:21",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48656219",
+      "numComments": 0
+    },
+    {
+      "id": "48636125",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "dt": "2026-06-22T21:00:51",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48636125",
+      "numComments": 0
+    },
+    {
+      "id": "48632792",
+      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
+      "url": "https://jobs.ashbyhq.com/charge-robotics",
+      "dt": "2026-06-22T17:00:17",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48632792",
+      "numComments": 0
+    },
+    {
+      "id": "48620504",
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+      "dt": "2026-06-21T17:00:28",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48620504",
+      "numComments": 0
+    },
+    {
+      "id": "48593694",
+      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+      "url": "https://www.flexport.com/company/careers/",
+      "dt": "2026-06-19T01:01:13",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48593694",
+      "numComments": 0
+    },
+    {
+      "id": "48573221",
+      "title": "Trellis AI (YC W24) hiring a product lead to build agents for healthcare access",
+      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+      "dt": "2026-06-17T17:00:02",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48573221",
+      "numComments": 0
+    },
     {
       "id": "48537556",
       "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
@@ -240,66 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48234688",
-      "numComments": 0
-    },
-    {
-      "id": "48225852",
-      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
-      "url": "https://news.ycombinator.com/item?id=48225852",
-      "dt": "2026-05-21T17:00:52",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48225852",
-      "numComments": 0
-    },
-    {
-      "id": "48221230",
-      "title": "Cekura (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-      "dt": "2026-05-21T12:00:20",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48221230",
-      "numComments": 0
-    },
-    {
-      "id": "48219340",
-      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
-      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
-      "dt": "2026-05-21T08:01:53",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48219340",
-      "numComments": 0
-    },
-    {
-      "id": "48159405",
-      "title": "Kyber (YC W23) Is Hiring a Founding Marketer",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/1rLQAro-founding-marketer-content-community",
-      "dt": "2026-05-16T12:01:06",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48159405",
-      "numComments": 0
-    },
-    {
-      "id": "48151034",
-      "title": "Hightouch (YC S19) Is Hiring",
-      "url": "https://hightouch.com/careers",
-      "dt": "2026-05-15T17:01:15",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48151034",
-      "numComments": 0
-    },
-    {
-      "id": "48147533",
-      "title": "SigNoz (YC W21, open source Datadog) Is hiring for growth and engineering roles",
-      "url": "https://signoz.io/careers",
-      "dt": "2026-05-15T12:00:31",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48147533",
       "numComments": 0
     }
   ]
