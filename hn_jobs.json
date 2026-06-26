@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-26T12:59:57.426506Z",
+  "generated_at": "2026-06-26T19:54:34.828569Z",
   "count": 30,
   "results": [
+    {
+      "id": "48688961",
+      "title": "Liva AI (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead",
+      "dt": "2026-06-26T17:00:43",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48688961",
+      "numComments": 0
+    },
     {
       "id": "48676256",
       "title": "Besimple AI (YC P25) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48267324",
-      "numComments": 0
-    },
-    {
-      "id": "48258995",
-      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-      "dt": "2026-05-24T17:00:46",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48258995",
       "numComments": 0
     }
   ]
