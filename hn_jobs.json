@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-26T19:54:34.828569Z",
+  "generated_at": "2026-06-27T07:23:27.751803Z",
   "count": 30,
   "results": [
+    {
+      "id": "48691893",
+      "title": "Hightouch (YC S19) Is Hiring",
+      "url": "https://hightouch.com/careers#open-positions",
+      "dt": "2026-06-26T21:00:50",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48691893",
+      "numComments": 0
+    },
     {
       "id": "48688961",
       "title": "Liva AI (YC S25) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48269041",
-      "numComments": 0
-    },
-    {
-      "id": "48267324",
-      "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
-      "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
-      "dt": "2026-05-25T14:32:47",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48267324",
       "numComments": 0
     }
   ]
