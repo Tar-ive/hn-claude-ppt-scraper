@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-06-27T09:56:56.959963Z",
+  "generated_at": "2026-06-27T19:46:33.102366Z",
   "count": 30,
   "results": [
+    {
+      "id": "48699842",
+      "title": "Supabase (YC S20) Is Hiring for Multigres",
+      "url": "https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228",
+      "dt": "2026-06-27T17:00:15",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48699842",
+      "numComments": 0
+    },
+    {
+      "id": "48697504",
+      "title": "Nox Metals (YC S25) Is Hiring SWE",
+      "url": "https://www.ycombinator.com/companies/nox-metals/jobs/M1f1enD-software-engineer",
+      "dt": "2026-06-27T12:01:03",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48697504",
+      "numComments": 0
+    },
     {
       "id": "48691893",
       "title": "Hightouch (YC S19) Is Hiring",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48282478",
-      "numComments": 0
-    },
-    {
-      "id": "48269937",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "dt": "2026-05-25T18:18:26",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48269937",
-      "numComments": 0
-    },
-    {
-      "id": "48269041",
-      "title": "RentFlow (YC S24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
-      "dt": "2026-05-25T17:00:27",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48269041",
       "numComments": 0
     }
   ]
