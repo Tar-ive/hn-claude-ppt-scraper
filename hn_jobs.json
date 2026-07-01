@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-06-30T09:26:12.105850Z",
+  "generated_at": "2026-07-01T09:27:17.946794Z",
   "count": 30,
   "results": [
+    {
+      "id": "48744213",
+      "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+      "url": "https://news.ycombinator.com/item?id=48744213",
+      "dt": "2026-07-01T09:18:43",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48744213",
+      "numComments": 0
+    },
     {
       "id": "48699842",
       "title": "Supabase (YC S20) Is Hiring for Multigres",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48297116",
-      "numComments": 0
-    },
-    {
-      "id": "48282478",
-      "title": "Sage Care (YC S24) Is Hiring Software Engineers",
-      "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
-      "dt": "2026-05-26T17:00:40",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48282478",
       "numComments": 0
     }
   ]
