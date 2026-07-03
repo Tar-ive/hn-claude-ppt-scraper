@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-01T09:27:17.946794Z",
+  "generated_at": "2026-07-03T07:34:58.046145Z",
   "count": 30,
   "results": [
+    {
+      "id": "48761068",
+      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
+      "dt": "2026-07-02T13:14:57",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48761068",
+      "numComments": 0
+    },
+    {
+      "id": "48753045",
+      "title": "Proliferate (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
+      "dt": "2026-07-01T21:00:14",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48753045",
+      "numComments": 0
+    },
+    {
+      "id": "48746331",
+      "title": "Manufact (YC S25) Is Hiring a Developer Advocate in SF",
+      "url": "https://www.ycombinator.com/companies/manufact/jobs/4cyWd6S-developer-advocate-partnerships-devrel",
+      "dt": "2026-07-01T13:22:24",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48746331",
+      "numComments": 0
+    },
     {
       "id": "48744213",
       "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
@@ -270,36 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48322030",
-      "numComments": 0
-    },
-    {
-      "id": "48303599",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-      "dt": "2026-05-28T02:21:11",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48303599",
-      "numComments": 0
-    },
-    {
-      "id": "48301851",
-      "title": "Pelica (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
-      "dt": "2026-05-27T22:52:15",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48301851",
-      "numComments": 0
-    },
-    {
-      "id": "48297116",
-      "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
-      "url": "https://www.ycombinator.com/companies/reflex/jobs",
-      "dt": "2026-05-27T17:01:05",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48297116",
       "numComments": 0
     }
   ]
