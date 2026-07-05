@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-03T07:34:58.046145Z",
+  "generated_at": "2026-07-05T10:29:02.247732Z",
   "count": 30,
   "results": [
+    {
+      "id": "48779906",
+      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
+      "url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
+      "dt": "2026-07-03T21:00:50",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48779906",
+      "numComments": 0
+    },
     {
       "id": "48761068",
       "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48343635",
-      "numComments": 0
-    },
-    {
-      "id": "48322030",
-      "title": "Cedana (YC S23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc",
-      "dt": "2026-05-29T12:01:00",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48322030",
       "numComments": 0
     }
   ]
