@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-07-06T12:58:03.957436Z",
+  "generated_at": "2026-07-07T12:08:57.842052Z",
   "count": 30,
   "results": [
+    {
+      "id": "48816533",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "dt": "2026-07-07T12:00:44",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48816533",
+      "numComments": 0
+    },
+    {
+      "id": "48814509",
+      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
+      "url": "https://jobs.ashbyhq.com/lago",
+      "dt": "2026-07-07T07:00:27",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48814509",
+      "numComments": 0
+    },
+    {
+      "id": "48806976",
+      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+      "url": "https://news.ycombinator.com/item?id=48806976",
+      "dt": "2026-07-06T16:33:04",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48806976",
+      "numComments": 0
+    },
     {
       "id": "48779906",
       "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
@@ -270,36 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48386588",
-      "numComments": 0
-    },
-    {
-      "id": "48382853",
-      "title": "Piramidal (YC W24) \u2013 Software Engineers \u2013 NYC Onsite",
-      "url": "https://news.ycombinator.com/item?id=48382853",
-      "dt": "2026-06-03T12:00:18",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48382853",
-      "numComments": 0
-    },
-    {
-      "id": "48369098",
-      "title": "Great Question (YC W21) Is Hiring Applied AI Interns",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/J5TNvQH-ai-engineer-intern",
-      "dt": "2026-06-02T12:01:04",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48369098",
-      "numComments": 0
-    },
-    {
-      "id": "48343635",
-      "title": "Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]",
-      "url": "https://hi.telli.com/join-us",
-      "dt": "2026-05-31T07:00:50",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48343635",
       "numComments": 0
     }
   ]
