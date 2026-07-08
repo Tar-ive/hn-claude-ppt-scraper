@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-07-07T12:09:01.076702Z",
-  "count": 1,
+  "generated_at": "2026-07-08T11:57:06.931567Z",
+  "count": 2,
   "results": [
+    {
+      "id": "48817479",
+      "title": "Ask HN: How do I find startups hiring developers for low pay and equity?",
+      "url": null,
+      "points": 4,
+      "submitter": "Kathan2651",
+      "dt": "2026-07-07T13:26:01Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=48817479",
+      "numComments": 5,
+      "queryName": "startup_jobs",
+      "query": "hiring startup",
+      "match_mode": "regex",
+      "pptx_present": false
+    },
     {
       "id": "48778312",
       "title": "Ask HN: Are any startups hiring front-end developers, or are they just using AI?",
