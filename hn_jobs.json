@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-08T11:57:03.863084Z",
+  "generated_at": "2026-07-09T11:17:49.796476Z",
   "count": 30,
   "results": [
+    {
+      "id": "48841963",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/P646Yw6-founding-account-executive",
+      "dt": "2026-07-09T07:00:43",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48841963",
+      "numComments": 0
+    },
     {
       "id": "48816533",
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48397435",
-      "numComments": 0
-    },
-    {
-      "id": "48386588",
-      "title": "Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
-      "url": "https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai",
-      "dt": "2026-06-03T17:01:00",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48386588",
       "numComments": 0
     }
   ]
