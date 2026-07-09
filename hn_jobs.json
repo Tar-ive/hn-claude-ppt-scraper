@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-09T11:17:49.796476Z",
+  "generated_at": "2026-07-09T20:03:08.831648Z",
   "count": 30,
   "results": [
+    {
+      "id": "48849011",
+      "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/ZSLVaaU-founding-engineer",
+      "dt": "2026-07-09T17:00:37",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48849011",
+      "numComments": 0
+    },
+    {
+      "id": "48844517",
+      "title": "TrueBiz (YC S22) \u2013 Senior Software Engineer \u2013 Remote (US) \u2013 Full-Time",
+      "url": "https://news.ycombinator.com/item?id=48844517",
+      "dt": "2026-07-09T12:01:17",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48844517",
+      "numComments": 0
+    },
     {
       "id": "48841963",
       "title": "CollectWise (YC F24) Is Hiring",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48411227",
-      "numComments": 0
-    },
-    {
-      "id": "48401433",
-      "title": "Zettascale (YC S24) Is Hiring Founding FPGA Engineers",
-      "url": "https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect",
-      "dt": "2026-06-04T17:00:37",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48401433",
-      "numComments": 0
-    },
-    {
-      "id": "48397435",
-      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
-      "dt": "2026-06-04T12:00:29",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48397435",
       "numComments": 0
     }
   ]
