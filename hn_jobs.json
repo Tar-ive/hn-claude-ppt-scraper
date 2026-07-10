@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-10T04:13:21.673150Z",
+  "generated_at": "2026-07-10T20:42:25.043997Z",
   "count": 30,
   "results": [
+    {
+      "id": "48858745",
+      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
+      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
+      "dt": "2026-07-10T12:00:36",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48858745",
+      "numComments": 0
+    },
     {
       "id": "48849011",
       "title": "Wildcard (YC W25) Is Hiring a Founding Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48424103",
-      "numComments": 0
-    },
-    {
-      "id": "48411227",
-      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
-      "url": "https://nango.dev/careers",
-      "dt": "2026-06-05T12:00:18",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48411227",
       "numComments": 0
     }
   ]
