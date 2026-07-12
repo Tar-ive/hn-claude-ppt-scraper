@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-10T20:42:25.043997Z",
+  "generated_at": "2026-07-12T12:07:18.995907Z",
   "count": 30,
   "results": [
+    {
+      "id": "48873665",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
+      "dt": "2026-07-11T17:00:35",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48873665",
+      "numComments": 0
+    },
+    {
+      "id": "48865332",
+      "title": "Moss (YC F25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "dt": "2026-07-10T21:11:18",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48865332",
+      "numComments": 0
+    },
     {
       "id": "48858745",
       "title": "Laylo (YC S20) Is Hiring a Head of Finance",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48436669",
-      "numComments": 0
-    },
-    {
-      "id": "48433987",
-      "title": "9 Mothers (YC P26) Is Hiring",
-      "url": "https://9mothers.com/careers",
-      "dt": "2026-06-07T12:00:40",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48433987",
-      "numComments": 0
-    },
-    {
-      "id": "48424103",
-      "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-      "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
-      "dt": "2026-06-06T12:00:56",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48424103",
       "numComments": 0
     }
   ]
