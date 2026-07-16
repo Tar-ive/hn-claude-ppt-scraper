@@ -1,7 +1,57 @@
 {
-  "generated_at": "2026-07-12T22:06:28.794057Z",
+  "generated_at": "2026-07-16T09:26:52.759946Z",
   "count": 30,
   "results": [
+    {
+      "id": "48923833",
+      "title": "Artie (YC S23) Is Hiring Software Engineers",
+      "url": "https://jobs.ashbyhq.com/artie",
+      "dt": "2026-07-15T17:01:02",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48923833",
+      "numComments": 0
+    },
+    {
+      "id": "48919510",
+      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
+      "url": "https://jiga.io/about-us/",
+      "dt": "2026-07-15T12:00:23",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48919510",
+      "numComments": 0
+    },
+    {
+      "id": "48909820",
+      "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+      "dt": "2026-07-14T17:00:17",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48909820",
+      "numComments": 0
+    },
+    {
+      "id": "48898814",
+      "title": "SalesPatriot (YC W25) Is Hiring Full Stack Engineers (SF)",
+      "url": "https://jobs.ashbyhq.com/SalesPatriot/df223727-5781-433e-bc75-2aa5bf8dc8d7",
+      "dt": "2026-07-13T21:01:00",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48898814",
+      "numComments": 0
+    },
+    {
+      "id": "48895565",
+      "title": "PgDog (YC P25) Is Hiring a Founding Software Engineer",
+      "url": "https://www.ycombinator.com/companies/pgdog/jobs/uWymUYy-founding-software-engineer",
+      "dt": "2026-07-13T17:00:54",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48895565",
+      "numComments": 0
+    },
     {
       "id": "48873665",
       "title": "Sixtyfour (YC P25) Is Hiring",
@@ -250,56 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48573221",
-      "numComments": 0
-    },
-    {
-      "id": "48537556",
-      "title": "Dalus (YC W25) Is Hiring a Senior Software Engineer in Germany",
-      "url": "https://www.ycombinator.com/companies/dalus/jobs/5IDmKJt-senior-software-frontend-engineer-germany-office",
-      "dt": "2026-06-15T07:00:22",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48537556",
-      "numComments": 0
-    },
-    {
-      "id": "48503717",
-      "title": "Hazel (YC W24) Is Hiring a Full Stack Engineer",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-      "dt": "2026-06-12T13:14:18",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48503717",
-      "numComments": 0
-    },
-    {
-      "id": "48459968",
-      "title": "Emerge Career (YC S22) Is Hiring a Founding Growth Marketer",
-      "url": "https://www.ycombinator.com/companies/emerge-career/jobs/v0S1AEG-founding-growth-marketer",
-      "dt": "2026-06-09T12:01:09",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48459968",
-      "numComments": 0
-    },
-    {
-      "id": "48456015",
-      "title": "GoGoGrandparent (YC S16) is hiring Back end Engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "dt": "2026-06-09T03:34:00",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48456015",
-      "numComments": 0
-    },
-    {
-      "id": "48436669",
-      "title": "Proliferate (YC S25) is hiring to building open source Codex",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
-      "dt": "2026-06-07T17:01:17",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48436669",
       "numComments": 0
     }
   ]
