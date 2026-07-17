@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-16T09:26:52.759946Z",
+  "generated_at": "2026-07-17T14:01:50.777532Z",
   "count": 30,
   "results": [
+    {
+      "id": "48947100",
+      "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
+      "url": "https://www.ycombinator.com/companies/manufact/jobs/Dh6PYP5-senior-infrastructure-engineer",
+      "dt": "2026-07-17T13:22:33",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48947100",
+      "numComments": 0
+    },
+    {
+      "id": "48937125",
+      "title": "Adaptional (YC S25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/adaptional/jobs",
+      "dt": "2026-07-16T17:00:55",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48937125",
+      "numComments": 0
+    },
     {
       "id": "48923833",
       "title": "Artie (YC S23) Is Hiring Software Engineers",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48620504",
-      "numComments": 0
-    },
-    {
-      "id": "48593694",
-      "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-      "url": "https://www.flexport.com/company/careers/",
-      "dt": "2026-06-19T01:01:13",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48593694",
-      "numComments": 0
-    },
-    {
-      "id": "48573221",
-      "title": "Trellis AI (YC W24) hiring a product lead to build agents for healthcare access",
-      "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
-      "dt": "2026-06-17T17:00:02",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48573221",
       "numComments": 0
     }
   ]
