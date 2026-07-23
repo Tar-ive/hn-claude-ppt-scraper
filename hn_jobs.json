@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-07-18T00:08:27.522337Z",
+  "generated_at": "2026-07-23T22:13:43.890078Z",
   "count": 30,
   "results": [
+    {
+      "id": "48995037",
+      "title": "Bloomy (YC S26) is hiring a founding engineer",
+      "url": "https://news.ycombinator.com/item?id=48995037",
+      "dt": "2026-07-21T17:00:20",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48995037",
+      "numComments": 0
+    },
+    {
+      "id": "48954074",
+      "title": "DrDroid (YC W23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+      "dt": "2026-07-18T01:01:08",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=48954074",
+      "numComments": 0
+    },
     {
       "id": "48947100",
       "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48636125",
-      "numComments": 0
-    },
-    {
-      "id": "48632792",
-      "title": "Charge Robotics (YC S21) Is Hiring Software and Hardware Engineers",
-      "url": "https://jobs.ashbyhq.com/charge-robotics",
-      "dt": "2026-06-22T17:00:17",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48632792",
-      "numComments": 0
-    },
-    {
-      "id": "48620504",
-      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
-      "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
-      "dt": "2026-06-21T17:00:28",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48620504",
       "numComments": 0
     }
   ]
