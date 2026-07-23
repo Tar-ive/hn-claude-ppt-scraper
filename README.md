@@ -62,7 +62,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 | https://news.ycombinator.com/item?id=48923047 | https://github.com/OtoDock/oto-dock/ | 2026-07-15T16:11:23Z | no | regex |
 | https://news.ycombinator.com/item?id=48893272 |  | 2026-07-13T14:27:24Z | no | regex |
 
-_Last updated: 2026-07-23T22:13:49.897410Z_
+_Last updated: 2026-07-23T23:10:56.003962Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
