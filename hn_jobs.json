@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-07-23T23:10:50.250993Z",
+  "generated_at": "2026-07-27T04:00:46.417824Z",
   "count": 30,
   "results": [
+    {
+      "id": "49046858",
+      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
+      "dt": "2026-07-25T12:00:04",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49046858",
+      "numComments": 0
+    },
     {
       "id": "48995037",
       "title": "Bloomy (YC S26) is hiring a founding engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48656219",
-      "numComments": 0
-    },
-    {
-      "id": "48636125",
-      "title": "Kyber (YC W23) Is Hiring a Head of Engineering",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/FGmI8mx-head-of-engineering",
-      "dt": "2026-06-22T21:00:51",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48636125",
       "numComments": 0
     }
   ]
