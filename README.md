@@ -60,9 +60,8 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=49008211 | https://bento.page/slides/ | 2026-07-22T15:19:23Z | no | regex |
 | https://news.ycombinator.com/item?id=48923047 | https://github.com/OtoDock/oto-dock/ | 2026-07-15T16:11:23Z | no | regex |
-| https://news.ycombinator.com/item?id=48893272 |  | 2026-07-13T14:27:24Z | no | regex |
 
-_Last updated: 2026-07-28T03:33:48.751422Z_
+_Last updated: 2026-07-28T14:35:37.862640Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
