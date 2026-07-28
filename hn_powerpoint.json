@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-27T11:37:31.356347Z",
+  "generated_at": "2026-07-28T03:33:46.424727Z",
   "count": 3,
   "results": [
     {
       "id": "49008211",
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
       "url": "https://bento.page/slides/",
-      "points": 1023,
+      "points": 1024,
       "submitter": "starfallg",
       "dt": "2026-07-22T15:19:23Z",
       "commentsUrl": "https://news.ycombinator.com/item?id=49008211",
-      "numComments": 238,
+      "numComments": 239,
       "queryName": "claude_powerpoint",
       "query": "claude powerpoint",
       "match_mode": "regex",
