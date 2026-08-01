@@ -59,9 +59,10 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=49008211 | https://bento.page/slides/ | 2026-07-22T15:19:23Z | no | regex |
-| https://news.ycombinator.com/item?id=48923047 | https://github.com/OtoDock/oto-dock/ | 2026-07-15T16:11:23Z | no | regex |
+| https://news.ycombinator.com/item?id=49120039 | https://getslaide.com/ | 2026-07-31T07:21:17Z | no | regex |
+| https://news.ycombinator.com/item?id=49120039 | https://getslaide.com/ | 2026-07-31T07:21:17Z | no | regex |
 
-_Last updated: 2026-07-29T15:18:18.680083Z_
+_Last updated: 2026-08-01T03:48:23.324584Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
