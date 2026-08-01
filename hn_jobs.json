@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-01T03:48:17.796798Z",
+  "generated_at": "2026-08-01T22:10:14.107979Z",
   "count": 30,
   "results": [
+    {
+      "id": "49133655",
+      "title": "Kontigo (YC S24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/kontigo/jobs/xAo6tMt-founding-engineer",
+      "dt": "2026-08-01T12:00:25",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49133655",
+      "numComments": 0
+    },
     {
       "id": "49128462",
       "title": "Loops (YC W22) Is Hiring a Product Educator",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48761068",
-      "numComments": 0
-    },
-    {
-      "id": "48753045",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/mMHvKR9-founding-product-engineer",
-      "dt": "2026-07-01T21:00:14",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48753045",
       "numComments": 0
     }
   ]
