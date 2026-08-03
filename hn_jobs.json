@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-01T22:10:14.107979Z",
+  "generated_at": "2026-08-03T17:19:27.450906Z",
   "count": 30,
   "results": [
+    {
+      "id": "49143683",
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+      "dt": "2026-08-02T12:01:00",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49143683",
+      "numComments": 0
+    },
+    {
+      "id": "49139352",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+      "dt": "2026-08-01T22:52:44",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49139352",
+      "numComments": 0
+    },
     {
       "id": "49133655",
       "title": "Kontigo (YC S24) Is Hiring",
@@ -44,7 +64,7 @@
     },
     {
       "id": "49112683",
-      "title": "Rise Reforming (YC S26) Is Hiring",
+      "title": "Rise Reforming (YC S26) Is Hiring a Senior Chemical Process Engineer",
       "url": "https://www.ycombinator.com/companies/rise-reforming/jobs/wJ9Q9nv-senior-chemical-process-engineer",
       "dt": "2026-07-30T17:00:21",
       "points": 0,
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48806976",
-      "numComments": 0
-    },
-    {
-      "id": "48779906",
-      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
-      "url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
-      "dt": "2026-07-03T21:00:50",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48779906",
-      "numComments": 0
-    },
-    {
-      "id": "48761068",
-      "title": "Hazel (YC W24) Is Hiring for Our Largest Government Contract",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/3epPWgu-full-stack-engineer-ts-sci",
-      "dt": "2026-07-02T13:14:57",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48761068",
       "numComments": 0
     }
   ]
