@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-08-03T21:21:14.773144Z",
+  "generated_at": "2026-08-04T14:41:25.696873Z",
   "count": 30,
   "results": [
+    {
+      "id": "49167444",
+      "title": "Roame (YC S23) Is Hiring Lead Engineer",
+      "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+      "dt": "2026-08-04T12:00:51",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49167444",
+      "numComments": 0
+    },
+    {
+      "id": "49165170",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
+      "dt": "2026-08-04T07:01:26",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49165170",
+      "numComments": 0
+    },
     {
       "id": "49143683",
       "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48816533",
-      "numComments": 0
-    },
-    {
-      "id": "48814509",
-      "title": "Lago (YC S21) Is Hiring for Our GTM Team",
-      "url": "https://jobs.ashbyhq.com/lago",
-      "dt": "2026-07-07T07:00:27",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48814509",
-      "numComments": 0
-    },
-    {
-      "id": "48806976",
-      "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
-      "url": "https://news.ycombinator.com/item?id=48806976",
-      "dt": "2026-07-06T16:33:04",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48806976",
       "numComments": 0
     }
   ]
