@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-08-04T14:41:25.696873Z",
+  "generated_at": "2026-08-05T18:49:55.782147Z",
   "count": 30,
   "results": [
+    {
+      "id": "49171650",
+      "title": "Truemetrics (YC S23) Is Hiring in Berlin \u2013 GTM Lead",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
+      "dt": "2026-08-04T17:00:12",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49171650",
+      "numComments": 0
+    },
     {
       "id": "49167444",
       "title": "Roame (YC S23) Is Hiring Lead Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48841963",
-      "numComments": 0
-    },
-    {
-      "id": "48816533",
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "dt": "2026-07-07T12:00:44",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48816533",
       "numComments": 0
     }
   ]
