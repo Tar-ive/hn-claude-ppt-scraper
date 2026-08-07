@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-08-06T00:09:32.120785Z",
-  "count": 3,
+  "generated_at": "2026-08-07T13:37:42.416979Z",
+  "count": 2,
   "results": [
-    {
-      "id": "49008211",
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "points": 1033,
-      "submitter": "starfallg",
-      "dt": "2026-07-22T15:19:23Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=49008211",
-      "numComments": 239,
-      "queryName": "claude_powerpoint",
-      "query": "claude powerpoint",
-      "match_mode": "regex",
-      "pptx_present": false
-    },
     {
       "id": "49120039",
       "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
