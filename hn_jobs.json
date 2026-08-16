@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-08-14T17:10:10.736838Z",
+  "generated_at": "2026-08-16T18:46:04.398396Z",
   "count": 30,
   "results": [
+    {
+      "id": "49319892",
+      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+      "url": "https://tasklet.ai/careers/head-of-design-engineering",
+      "dt": "2026-08-16T13:30:27",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49319892",
+      "numComments": 0
+    },
+    {
+      "id": "49319215",
+      "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
+      "dt": "2026-08-16T12:00:23",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49319215",
+      "numComments": 0
+    },
+    {
+      "id": "49313047",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "dt": "2026-08-15T18:33:25",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49313047",
+      "numComments": 0
+    },
     {
       "id": "49284697",
       "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
@@ -270,36 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=48895565",
-      "numComments": 0
-    },
-    {
-      "id": "48873665",
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
-      "dt": "2026-07-11T17:00:35",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48873665",
-      "numComments": 0
-    },
-    {
-      "id": "48865332",
-      "title": "Moss (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
-      "dt": "2026-07-10T21:11:18",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48865332",
-      "numComments": 0
-    },
-    {
-      "id": "48858745",
-      "title": "Laylo (YC S20) Is Hiring a Head of Finance",
-      "url": "https://www.ycombinator.com/companies/laylo/jobs/qce41D2-head-of-finance",
-      "dt": "2026-07-10T12:00:36",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=48858745",
       "numComments": 0
     }
   ]

@@ -1,34 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:10:15.278610Z",
-  "count": 2,
-  "results": [
-    {
-      "id": "49120039",
-      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
-      "url": "https://getslaide.com/",
-      "points": 2,
-      "submitter": "ppiper",
-      "dt": "2026-07-31T07:21:17Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=49120039",
-      "numComments": 0,
-      "queryName": "claude_powerpoint",
-      "query": "claude powerpoint",
-      "match_mode": "regex",
-      "pptx_present": false
-    },
-    {
-      "id": "49120039",
-      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
-      "url": "https://getslaide.com/",
-      "points": 2,
-      "submitter": "ppiper",
-      "dt": "2026-07-31T07:21:17Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=49120039",
-      "numComments": 0,
-      "queryName": "claude_powerpoint_skill",
-      "query": "claude powerpoint skill",
-      "match_mode": "regex",
-      "pptx_present": false
-    }
-  ]
+  "generated_at": "2026-08-16T18:46:07.654530Z",
+  "count": 0,
+  "results": []
 }
