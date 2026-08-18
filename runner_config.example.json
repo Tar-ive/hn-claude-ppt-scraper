@@ -1,0 +1,23 @@
+{
+  "_comment": "Capture ONE real request from the Warehouse Runner app, then edit this. Use {warehouse_id} where the warehouse id goes and {item} where the searched item goes. See README 'Capturing a request'.",
+  "base_url": "https://api-runner.a-ok.app",
+  "method": "GET",
+  "endpoint": "/REPLACE/with/real/path/{warehouse_id}",
+  "headers": {
+    "authorization": "Bearer REPLACE_WITH_CAPTURED_TOKEN",
+    "user-agent": "Runner/1.0 (com.annies.ok.runner; iOS 18.0)"
+  },
+  "query": {
+    "q": "{item}"
+  },
+  "body": null,
+  "extract": {
+    "price": "REPLACE.dotted.path.to.price",
+    "available": "REPLACE.dotted.path.to.availability",
+    "name": "REPLACE.dotted.path.to.item.name"
+  },
+  "warehouses": [
+    { "id": "REPLACE_ME_1", "name": "Costco - Example City #123" },
+    { "id": "REPLACE_ME_2", "name": "Costco - Other City #456" }
+  ]
+}

@@ -65,3 +65,66 @@ _Last updated: 2026-08-17T16:44:45.740580Z_
 
 ## GitHub Actions
 Runs hourly and auto-commits JSON outputs + README updates.
+
+## Warehouse Runner — check an item across all warehouses
+
+`warehouse_check.py` checks one item's price/availability across **every**
+warehouse via the Warehouse Runner backend (`api-runner.a-ok.app`).
+
+That backend is a private, undocumented mobile API (Cloudflare-fronted; only
+`GET /` responds, returning `"Annie is OK"` — every other route probed returns
+`404`). The route names, auth token, and request body are only knowable from a
+real request the app makes. So this tool is **capture-driven**: capture one
+request, and it replays that request across all warehouses concurrently.
+
+### Capturing a request
+
+Point the phone's traffic at an HTTPS-inspecting proxy and search one item in
+the app, then grab the request to `api-runner.a-ok.app`:
+
+- **Proxyman** or **Charles Proxy** (Mac) — install the proxy's CA cert on the
+  phone, "Enable SSL Proxying" for `api-runner.a-ok.app`, do a search, then
+  right-click the request → *Copy → cURL*.
+- **mitmproxy** (`mitmproxy` / `mitmweb`) — same idea; export the flow as curl.
+
+Save the copied `curl ...` into a text file (e.g. `captured.txt`).
+
+### Build the config
+
+```bash
+python warehouse_check.py import-curl captured.txt -o runner_config.json
+```
+
+Then edit `runner_config.json` (see `runner_config.example.json`):
+
+1. In `endpoint`/`body`, replace the captured warehouse id with `{warehouse_id}`
+   and the searched term with `{item}`.
+2. Fill in `warehouses` — one `{ "id": ..., "name": ... }` per warehouse. (The
+   warehouse-list request in the app is itself a request you can capture the
+   same way.)
+3. Set the `extract` dotted paths to the price/availability/name fields in the
+   JSON response. Unresolved rows print the raw payload so you can find them.
+
+### Run
+
+```bash
+python warehouse_check.py check "organic milk" -c runner_config.json -o results.json
+```
+
+```
+Item: organic milk   (3 warehouses)
+
+Warehouse                 Price   Avail  Notes
+----------------------------------------------
+Costco Seattle #12         9.49     yes  Kirkland Organic Milk
+Costco Portland #34        8.99      no  Kirkland Organic Milk
+Costco Boise #56           9.99     yes  Kirkland Organic Milk
+```
+
+Placeholders substituted per request: `{warehouse_id}`, `{item}` (URL-encoded),
+`{item_raw}`. Requests run concurrently (`-w` to tune). Only depends on
+`requests`.
+
+> The other domains in the app's privacy report are Apple's, not the Runner
+> backend: `amp-api-edge.apps.apple.com` (App Store catalog), `mzstorekit.itunes.apple.com`
+> (StoreKit / in-app purchases), `gsp-ssl.ls.apple.com` (Apple location service).
