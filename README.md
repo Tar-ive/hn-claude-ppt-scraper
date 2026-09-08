@@ -58,9 +58,10 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 <!-- HN_TABLE_START -->
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
-| (none) | | | | |
+| https://news.ycombinator.com/item?id=49532209 |  | 2026-09-02T05:44:57Z | no | regex |
+| https://news.ycombinator.com/item?id=49532209 |  | 2026-09-02T05:44:57Z | no | regex |
 
-_Last updated: 2026-09-01T21:46:06.989073Z_
+_Last updated: 2026-09-08T05:57:42.060718Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
