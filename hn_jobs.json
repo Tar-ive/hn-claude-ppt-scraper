@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-08T21:51:02.890131Z",
+  "generated_at": "2026-09-09T14:35:20.992648Z",
   "count": 30,
   "results": [
+    {
+      "id": "49625110",
+      "title": "Roame (YC S23) Is Hiring Viral Content Editor",
+      "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
+      "dt": "2026-09-09T12:01:38.000000Z",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49625110",
+      "numComments": 0
+    },
     {
       "id": "49588466",
       "title": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49273395",
-      "numComments": 0
-    },
-    {
-      "id": "49171650",
-      "title": "Truemetrics (YC S23) Is Hiring in Berlin \u2013 GTM Lead",
-      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
-      "dt": "2026-08-04T17:00:12.000000Z",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49171650",
       "numComments": 0
     }
   ]
