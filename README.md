@@ -61,7 +61,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 | https://news.ycombinator.com/item?id=49532209 |  | 2026-09-02T05:44:57Z | no | regex |
 | https://news.ycombinator.com/item?id=49532209 |  | 2026-09-02T05:44:57Z | no | regex |
 
-_Last updated: 2026-09-10T04:43:15.453556Z_
+_Last updated: 2026-09-10T09:43:16.580510Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
