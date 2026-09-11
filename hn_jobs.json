@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-11T14:25:37.333920Z",
+  "generated_at": "2026-09-11T18:31:38.392662Z",
   "count": 30,
   "results": [
+    {
+      "id": "49661645",
+      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+      "url": "https://www.getzep.com/careers/",
+      "dt": "2026-09-11T17:00:17.000000Z",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49661645",
+      "numComments": 0
+    },
     {
       "id": "49625110",
       "title": "Roame (YC S23) Is Hiring Viral Content Editor",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49275465",
-      "numComments": 0
-    },
-    {
-      "id": "49273395",
-      "title": "GiveCampus (YC S15) Is Hiring Engineering Managers",
-      "url": "https://job-boards.greenhouse.io/givecampus/jobs/4112793009",
-      "dt": "2026-08-12T14:55:27.000000Z",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49273395",
       "numComments": 0
     }
   ]
