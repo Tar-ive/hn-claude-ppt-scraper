@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-09-14T12:54:19.314084Z",
+  "generated_at": "2026-09-15T07:43:25.600950Z",
   "count": 30,
   "results": [
+    {
+      "id": "49708774",
+      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
+      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
+      "dt": "2026-09-15T07:00:30",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49708774",
+      "numComments": 0
+    },
+    {
+      "id": "49700218",
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+      "dt": "2026-09-14T17:00:53",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49700218",
+      "numComments": 0
+    },
     {
       "id": "49661645",
       "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49313047",
-      "numComments": 0
-    },
-    {
-      "id": "49284697",
-      "title": "ATG (YC F25) Is Hiring Member of Technical Staff (Data Platform)",
-      "url": "https://atg.science/careers",
-      "dt": "2026-08-13T12:01:02",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49284697",
-      "numComments": 0
-    },
-    {
-      "id": "49275465",
-      "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
-      "url": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
-      "dt": "2026-08-12T17:00:21",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49275465",
       "numComments": 0
     }
   ]
