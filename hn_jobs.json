@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-17T07:38:07.314725Z",
+  "generated_at": "2026-09-17T21:21:12.974036Z",
   "count": 30,
   "results": [
+    {
+      "id": "49743567",
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "url": "https://zscc.ai/careers?job_id=109821",
+      "dt": "2026-09-17T17:00:59",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49743567",
+      "numComments": 0
+    },
     {
       "id": "49725541",
       "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49373423",
-      "numComments": 0
-    },
-    {
-      "id": "49319892",
-      "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
-      "url": "https://tasklet.ai/careers/head-of-design-engineering",
-      "dt": "2026-08-16T13:30:27",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49319892",
       "numComments": 0
     }
   ]

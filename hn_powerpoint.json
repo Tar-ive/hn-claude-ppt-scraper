@@ -1,5 +1,20 @@
 {
-  "generated_at": "2026-09-17T07:38:10.998219Z",
-  "count": 0,
-  "results": []
+  "generated_at": "2026-09-17T21:21:17.095589Z",
+  "count": 1,
+  "results": [
+    {
+      "id": "49741481",
+      "title": "Claude Desktop Silently Associates with Common Files",
+      "url": null,
+      "points": 3,
+      "submitter": "3371",
+      "dt": "2026-09-17T14:38:26Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=49741481",
+      "numComments": 0,
+      "queryName": "claude_powerpoint",
+      "query": "claude powerpoint",
+      "match_mode": "regex",
+      "pptx_present": false
+    }
+  ]
 }
