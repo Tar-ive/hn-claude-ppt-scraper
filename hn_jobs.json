@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-18T09:45:22.772438Z",
+  "generated_at": "2026-09-18T18:27:51.480837Z",
   "count": 30,
   "results": [
+    {
+      "id": "49753131",
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "dt": "2026-09-18T12:00:10",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49753131",
+      "numComments": 0
+    },
     {
       "id": "49743567",
       "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49377248",
-      "numComments": 0
-    },
-    {
-      "id": "49373423",
-      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-      "dt": "2026-08-20T12:00:23",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49373423",
       "numComments": 0
     }
   ]
