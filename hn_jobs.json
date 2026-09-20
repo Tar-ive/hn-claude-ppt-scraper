@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-19T05:52:19.162391Z",
+  "generated_at": "2026-09-20T06:14:48.821012Z",
   "count": 30,
   "results": [
+    {
+      "id": "49768220",
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "url": "https://supabase.link/orioledbjob",
+      "dt": "2026-09-19T17:01:30",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49768220",
+      "numComments": 0
+    },
     {
       "id": "49753131",
       "title": "Cekura (YC F24) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49390910",
-      "numComments": 0
-    },
-    {
-      "id": "49377248",
-      "title": "Sixtyfour (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
-      "dt": "2026-08-20T17:01:05",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49377248",
       "numComments": 0
     }
   ]
