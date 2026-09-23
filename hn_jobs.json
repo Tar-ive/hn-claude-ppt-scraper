@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-23T05:57:49.334688Z",
+  "generated_at": "2026-09-23T20:20:54.805161Z",
   "count": 30,
   "results": [
+    {
+      "id": "49814780",
+      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+      "url": "https://questdb.com/careers/pre-sales-engineer-north-america/",
+      "dt": "2026-09-23T12:01:04",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49814780",
+      "numComments": 0
+    },
     {
       "id": "49768220",
       "title": "Supabase (YC S20) Is Hiring for OrioleDB",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49393733",
-      "numComments": 0
-    },
-    {
-      "id": "49390910",
-      "title": "LiteLLM (YC W23) Is Hiring \u2013 Rust / Performance Engineers",
-      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
-      "dt": "2026-08-21T17:00:23",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49390910",
       "numComments": 0
     }
   ]
