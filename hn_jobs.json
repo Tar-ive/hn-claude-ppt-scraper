@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-24T15:04:52.325016Z",
+  "generated_at": "2026-09-24T22:23:11.305609Z",
   "count": 30,
   "results": [
+    {
+      "id": "49834893",
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "url": "https://www.usestable.com/careers/product-engineer",
+      "dt": "2026-09-24T18:29:18",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49834893",
+      "numComments": 0
+    },
     {
       "id": "49814780",
       "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49423495",
-      "numComments": 0
-    },
-    {
-      "id": "49393733",
-      "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
-      "url": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
-      "dt": "2026-08-21T21:00:48",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49393733",
       "numComments": 0
     }
   ]
