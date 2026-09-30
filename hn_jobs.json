@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-30T13:41:44.916428Z",
+  "generated_at": "2026-09-30T19:18:13.569125Z",
   "count": 30,
   "results": [
+    {
+      "id": "49911531",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "dt": "2026-09-30T17:00:20",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49911531",
+      "numComments": 0
+    },
     {
       "id": "49834893",
       "title": "Stable (YC W20) Is Hiring Product Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49437566",
-      "numComments": 0
-    },
-    {
-      "id": "49423495",
-      "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
-      "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
-      "dt": "2026-08-24T17:53:14",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49423495",
       "numComments": 0
     }
   ]
