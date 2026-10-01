@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-09-30T19:18:13.569125Z",
+  "generated_at": "2026-10-01T13:11:19.186161Z",
   "count": 30,
   "results": [
+    {
+      "id": "49919680",
+      "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
+      "url": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
+      "dt": "2026-10-01T09:48:18",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49919680",
+      "numComments": 0
+    },
     {
       "id": "49911531",
       "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49447480",
-      "numComments": 0
-    },
-    {
-      "id": "49437566",
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-      "dt": "2026-08-25T17:28:52",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49437566",
       "numComments": 0
     }
   ]
