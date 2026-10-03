@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-03T06:31:36.764914Z",
+  "generated_at": "2026-10-03T12:32:53.291271Z",
   "count": 30,
   "results": [
+    {
+      "id": "49943524",
+      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+      "dt": "2026-10-03T12:02:10",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49943524",
+      "numComments": 0
+    },
     {
       "id": "49919680",
       "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49463361",
-      "numComments": 0
-    },
-    {
-      "id": "49447480",
-      "title": "Proliferate (YC S25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/OgpCKYJ-founding-product-engineer",
-      "dt": "2026-08-26T12:00:07",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49447480",
       "numComments": 0
     }
   ]
