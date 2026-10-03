@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-03T12:32:53.291271Z",
+  "generated_at": "2026-10-03T17:15:56.128123Z",
   "count": 30,
   "results": [
+    {
+      "id": "49945904",
+      "title": "RetailReady (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "dt": "2026-10-03T17:00:12",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=49945904",
+      "numComments": 0
+    },
     {
       "id": "49943524",
       "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49467837",
-      "numComments": 0
-    },
-    {
-      "id": "49463361",
-      "title": "Adentris (YC P25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/adentris/jobs/ZpMXZ0C-founding-engineer-ai-rcm-healthcare-platform-typescript-python",
-      "dt": "2026-08-27T12:00:31",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49463361",
       "numComments": 0
     }
   ]
