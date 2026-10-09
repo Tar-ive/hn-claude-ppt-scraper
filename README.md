@@ -60,7 +60,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 |---|---|---|---|---|
 | (none) | | | | |
 
-_Last updated: 2026-10-08T21:18:56.365400Z_
+_Last updated: 2026-10-09T09:02:09.308362Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
