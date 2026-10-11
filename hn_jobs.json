@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-11T08:48:29.447716Z",
+  "generated_at": "2026-10-11T20:15:29.323259Z",
   "count": 30,
   "results": [
+    {
+      "id": "50042330",
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "dt": "2026-10-11T12:01:08",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50042330",
+      "numComments": 0
+    },
     {
       "id": "49945904",
       "title": "RetailReady (YC W24) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49474060",
-      "numComments": 0
-    },
-    {
-      "id": "49467837",
-      "title": "Bild AI (YC W25) is hiring product and AI engineers",
-      "url": "https://www.bild.ai/jobs",
-      "dt": "2026-08-27T17:00:14",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49467837",
       "numComments": 0
     }
   ]
