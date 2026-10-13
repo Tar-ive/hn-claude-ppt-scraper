@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-13T11:46:01.562791Z",
+  "generated_at": "2026-10-13T19:15:37.773720Z",
   "count": 30,
   "results": [
+    {
+      "id": "50074969",
+      "title": "Coris (YC S22) Is Hiring Back End Engineer",
+      "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+      "dt": "2026-10-13T17:00:39",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50074969",
+      "numComments": 0
+    },
     {
       "id": "50042330",
       "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49481423",
-      "numComments": 0
-    },
-    {
-      "id": "49474060",
-      "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
-      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
-      "dt": "2026-08-28T03:35:15",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49474060",
       "numComments": 0
     }
   ]
