@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-13T19:15:37.773720Z",
+  "generated_at": "2026-10-14T01:57:09.783939Z",
   "count": 30,
   "results": [
+    {
+      "id": "50078686",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "dt": "2026-10-13T21:01:12",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50078686",
+      "numComments": 0
+    },
     {
       "id": "50074969",
       "title": "Coris (YC S22) Is Hiring Back End Engineer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49500471",
-      "numComments": 0
-    },
-    {
-      "id": "49481423",
-      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff \u2013 Engineering and Research",
-      "url": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-      "dt": "2026-08-28T17:00:06",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49481423",
       "numComments": 0
     }
   ]
