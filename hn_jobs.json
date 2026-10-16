@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-16T11:21:23.630117Z",
+  "generated_at": "2026-10-16T19:56:53.195417Z",
   "count": 30,
   "results": [
+    {
+      "id": "50121188",
+      "title": "Piramidal (YC W24) Is Hiring",
+      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+      "dt": "2026-10-16T17:08:55",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50121188",
+      "numComments": 0
+    },
     {
       "id": "50078686",
       "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49512895",
-      "numComments": 0
-    },
-    {
-      "id": "49500471",
-      "title": "Artie (YC S23) Is Hiring Technical AES",
-      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-      "dt": "2026-08-30T17:01:56",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49500471",
       "numComments": 0
     }
   ]
