@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-17T15:32:41.903144Z",
+  "generated_at": "2026-10-17T18:29:17.307576Z",
   "count": 30,
   "results": [
+    {
+      "id": "50132839",
+      "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+      "url": "https://www.artie.com/careers",
+      "dt": "2026-10-17T17:02:50",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50132839",
+      "numComments": 0
+    },
     {
       "id": "50126774",
       "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49518877",
-      "numComments": 0
-    },
-    {
-      "id": "49514781",
-      "title": "Autonomous (YC F25) is hiring engineers",
-      "url": "https://news.ycombinator.com/item?id=49514781",
-      "dt": "2026-08-31T21:00:09",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49514781",
       "numComments": 0
     }
   ]
