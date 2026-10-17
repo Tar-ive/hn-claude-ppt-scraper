@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-16T22:50:41.193339Z",
+  "generated_at": "2026-10-17T01:18:29.278720Z",
   "count": 30,
   "results": [
+    {
+      "id": "50126774",
+      "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+      "url": "https://www.flexport.com/company/careers/",
+      "dt": "2026-10-17T01:01:51",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50126774",
+      "numComments": 0
+    },
     {
       "id": "50121188",
       "title": "Piramidal (YC W24) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49514781",
-      "numComments": 0
-    },
-    {
-      "id": "49512895",
-      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/workweave",
-      "dt": "2026-08-31T18:15:26",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49512895",
       "numComments": 0
     }
   ]
