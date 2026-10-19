@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-19T13:17:53.014112Z",
+  "generated_at": "2026-10-19T19:54:41.059382Z",
   "count": 30,
   "results": [
+    {
+      "id": "50155172",
+      "title": "Evidence (YC S21) Is Hiring Software Engineers",
+      "url": "https://evidence.dev/jobs",
+      "dt": "2026-10-19T17:21:33",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50155172",
+      "numComments": 0
+    },
     {
       "id": "50132839",
       "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49524704",
-      "numComments": 0
-    },
-    {
-      "id": "49518877",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/7U500pP-founding-customer-success-engineer",
-      "dt": "2026-09-01T07:01:49",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49518877",
       "numComments": 0
     }
   ]
