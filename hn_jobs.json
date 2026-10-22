@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-21T07:37:36.957903Z",
+  "generated_at": "2026-10-22T01:30:24.094152Z",
   "count": 30,
   "results": [
+    {
+      "id": "50179455",
+      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+      "url": "https://9mothers.com/careers",
+      "dt": "2026-10-21T12:00:24",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50179455",
+      "numComments": 0
+    },
     {
       "id": "50164991",
       "title": "Hazel (YC W24) Is Hiring",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49542486",
-      "numComments": 0
-    },
-    {
-      "id": "49533557",
-      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
-      "url": "https://careers.telli.com/",
-      "dt": "2026-09-02T08:43:49",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49533557",
       "numComments": 0
     }
   ]
