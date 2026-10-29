@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-10-28T15:59:51.555984Z",
+  "generated_at": "2026-10-29T07:03:04.404583Z",
   "count": 30,
   "results": [
+    {
+      "id": "50280824",
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "url": "https://nango.dev/careers",
+      "dt": "2026-10-28T21:00:06",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50280824",
+      "numComments": 0
+    },
+    {
+      "id": "50276779",
+      "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
+      "url": "https://www.runconverge.com/careers/founding-platform-engineer",
+      "dt": "2026-10-28T17:00:24",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50276779",
+      "numComments": 0
+    },
     {
       "id": "50179455",
       "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49553173",
-      "numComments": 0
-    },
-    {
-      "id": "49548864",
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "dt": "2026-09-03T12:00:52",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49548864",
-      "numComments": 0
-    },
-    {
-      "id": "49542486",
-      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
-      "url": "https://nango.dev/careers",
-      "dt": "2026-09-02T21:00:04",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49542486",
       "numComments": 0
     }
   ]
