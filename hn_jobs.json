@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-10-29T23:56:16.358348Z",
+  "generated_at": "2026-10-31T02:19:58.065961Z",
   "count": 30,
   "results": [
+    {
+      "id": "50300643",
+      "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+      "url": "https://www.workatastartup.com/jobs/98722",
+      "dt": "2026-10-30T07:00:35",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50300643",
+      "numComments": 0
+    },
     {
       "id": "50280824",
       "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49556922",
-      "numComments": 0
-    },
-    {
-      "id": "49553173",
-      "title": "Gooseworks (YC W23) Is Hiring \u2013\u00a0Founding Creative Engineer",
-      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
-      "dt": "2026-09-03T17:00:16",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49553173",
       "numComments": 0
     }
   ]
