@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-02T02:29:18.840958Z",
+  "generated_at": "2026-11-03T02:54:30.262949Z",
   "count": 30,
   "results": [
+    {
+      "id": "50339827",
+      "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+      "url": "https://bitmovin.com/careers/8660599002/",
+      "dt": "2026-11-02T17:00:41",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50339827",
+      "numComments": 0
+    },
     {
       "id": "50300643",
       "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49563415",
-      "numComments": 0
-    },
-    {
-      "id": "49556922",
-      "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-      "url": "https://tasklet.ai/careers/customer-success-engineer",
-      "dt": "2026-09-03T21:01:10",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49556922",
       "numComments": 0
     }
   ]
