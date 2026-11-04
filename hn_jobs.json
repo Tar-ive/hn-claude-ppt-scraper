@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-11-03T02:54:30.262949Z",
+  "generated_at": "2026-11-04T06:17:02.951684Z",
   "count": 30,
   "results": [
+    {
+      "id": "50354582",
+      "title": "Ashby (YC W19) Is Hiring EMs",
+      "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+      "dt": "2026-11-03T17:00:53",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50354582",
+      "numComments": 0
+    },
+    {
+      "id": "50350924",
+      "title": "Sava Trust (YC F25) Is Hiring a Founding Engineer in NYC",
+      "url": "https://www.ycombinator.com/companies/sava-trust-company/jobs",
+      "dt": "2026-11-03T12:01:01",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50350924",
+      "numComments": 0
+    },
     {
       "id": "50339827",
       "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
@@ -280,26 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49625110",
-      "numComments": 0
-    },
-    {
-      "id": "49588466",
-      "title": "Opalite Health (YC W26) Is Hiring \u2013 Founding GTM",
-      "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
-      "dt": "2026-09-06T17:00:28",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49588466",
-      "numComments": 0
-    },
-    {
-      "id": "49563415",
-      "title": "SubImage (YC W25) Is Hiring a Founding Engineer in SF",
-      "url": "https://www.ycombinator.com/companies/subimage/jobs/NCTFgKK-founding-engineer",
-      "dt": "2026-09-04T12:01:07",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49563415",
       "numComments": 0
     }
   ]
