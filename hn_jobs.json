@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-05T10:52:17.569980Z",
+  "generated_at": "2026-11-05T18:44:02.572716Z",
   "count": 30,
   "results": [
+    {
+      "id": "50381512",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "dt": "2026-11-05T17:01:23",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50381512",
+      "numComments": 0
+    },
     {
       "id": "50354582",
       "title": "Ashby (YC W19) Is Hiring EMs",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49661645",
-      "numComments": 0
-    },
-    {
-      "id": "49625110",
-      "title": "Roame (YC S23) Is Hiring Viral Content Editor",
-      "url": "https://www.ycombinator.com/companies/roame/jobs/KuVVqSh-content-systems-builder-editor",
-      "dt": "2026-09-09T12:01:38",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49625110",
       "numComments": 0
     }
   ]
