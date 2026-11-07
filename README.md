@@ -60,7 +60,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=50334935 | https://sponsorjobs.co/research/visa-sponsorship-adverts-2026 | 2026-11-02T10:05:44Z | no | regex |
 
-_Last updated: 2026-11-07T07:07:44.800021Z_
+_Last updated: 2026-11-07T13:59:55.249344Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
