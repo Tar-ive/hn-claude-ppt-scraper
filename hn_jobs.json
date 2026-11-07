@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-06T15:01:08.964874Z",
+  "generated_at": "2026-11-07T00:55:36.960578Z",
   "count": 30,
   "results": [
+    {
+      "id": "50395043",
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "dt": "2026-11-06T17:03:33",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50395043",
+      "numComments": 0
+    },
     {
       "id": "50391342",
       "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49708774",
-      "numComments": 0
-    },
-    {
-      "id": "49700218",
-      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
-      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-      "dt": "2026-09-14T17:00:53",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49700218",
       "numComments": 0
     }
   ]
