@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-09T07:57:12.588818Z",
+  "generated_at": "2026-11-09T18:46:30.430402Z",
   "count": 30,
   "results": [
+    {
+      "id": "50428266",
+      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+      "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+      "dt": "2026-11-09T17:00:06",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50428266",
+      "numComments": 0
+    },
     {
       "id": "50395043",
       "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49715446",
-      "numComments": 0
-    },
-    {
-      "id": "49708774",
-      "title": "Lingo.dev (YC F24) is hiring a senior content engineer (Remote, worldwide)",
-      "url": "https://lingo.dev/en/careers/ff88132a-cb79-4d35-a6a0-a6230de7a013",
-      "dt": "2026-09-15T07:00:30",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49708774",
       "numComments": 0
     }
   ]
