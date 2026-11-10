@@ -59,8 +59,9 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=50334935 | https://sponsorjobs.co/research/visa-sponsorship-adverts-2026 | 2026-11-02T10:05:44Z | no | regex |
+| https://news.ycombinator.com/item?id=50444436 | https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/ | 2026-11-10T18:45:41Z | no | regex |
 
-_Last updated: 2026-11-10T17:48:37.011442Z_
+_Last updated: 2026-11-10T23:17:46.450965Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
