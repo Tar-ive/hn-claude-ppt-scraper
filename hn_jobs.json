@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-11T06:13:50.715721Z",
+  "generated_at": "2026-11-11T14:22:37.794053Z",
   "count": 30,
   "results": [
+    {
+      "id": "50452404",
+      "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
+      "url": "https://news.ycombinator.com/item?id=50452404",
+      "dt": "2026-11-11T12:00:35",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50452404",
+      "numComments": 0
+    },
     {
       "id": "50428266",
       "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49725541",
-      "numComments": 0
-    },
-    {
-      "id": "49715446",
-      "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
-      "url": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
-      "dt": "2026-09-15T17:00:31",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49715446",
       "numComments": 0
     }
   ]
