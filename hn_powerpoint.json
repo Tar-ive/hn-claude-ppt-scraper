@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T23:17:45.111853Z",
-  "count": 2,
+  "generated_at": "2026-11-11T06:13:53.970970Z",
+  "count": 3,
   "results": [
     {
       "id": "50334935",
@@ -20,11 +20,25 @@
       "id": "50444436",
       "title": "IBM to end visa, green card sponsorship for most roles in its Consulting arm",
       "url": "https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/",
-      "points": 1,
+      "points": 2,
       "submitter": "frank_clover",
       "dt": "2026-11-10T18:45:41Z",
       "commentsUrl": "https://news.ycombinator.com/item?id=50444436",
       "numComments": 1,
+      "queryName": "visa_support",
+      "query": "visa sponsorship",
+      "match_mode": "regex",
+      "pptx_present": false
+    },
+    {
+      "id": "50449337",
+      "title": "IBM ending visa and green cards in consulting division",
+      "url": "https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/",
+      "points": 4,
+      "submitter": "rooftopzen",
+      "dt": "2026-11-11T03:08:39Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=50449337",
+      "numComments": 2,
       "queryName": "visa_support",
       "query": "visa sponsorship",
       "match_mode": "regex",
