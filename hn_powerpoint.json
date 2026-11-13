@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-13T00:20:49.686816Z",
-  "count": 3,
+  "generated_at": "2026-11-13T07:55:38.099636Z",
+  "count": 4,
   "results": [
+    {
+      "id": "50477041",
+      "title": "The State of Startup Hiring 2026",
+      "url": "https://www.jackandjill.ai/jill/state-of-hiring",
+      "points": 2,
+      "submitter": "hunglee2",
+      "dt": "2026-11-13T01:46:03Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=50477041",
+      "numComments": 0,
+      "queryName": "startup_jobs",
+      "query": "hiring startup",
+      "match_mode": "regex",
+      "pptx_present": false
+    },
     {
       "id": "50334935",
       "title": "We read 200k UK job ads from visa-sponsor employers: 1 in 6 rule out sponsorship",
