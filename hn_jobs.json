@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-13T16:19:47.657472Z",
+  "generated_at": "2026-11-14T03:12:57.338585Z",
   "count": 30,
   "results": [
+    {
+      "id": "50489589",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "dt": "2026-11-13T21:01:11",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50489589",
+      "numComments": 0
+    },
     {
       "id": "50452404",
       "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49743567",
-      "numComments": 0
-    },
-    {
-      "id": "49725541",
-      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-      "dt": "2026-09-16T12:01:09",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49725541",
       "numComments": 0
     }
   ]

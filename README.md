@@ -63,7 +63,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 | https://news.ycombinator.com/item?id=50444436 | https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/ | 2026-11-10T18:45:41Z | no | regex |
 | https://news.ycombinator.com/item?id=50449337 | https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/ | 2026-11-11T03:08:39Z | no | regex |
 
-_Last updated: 2026-11-13T16:19:51.752209Z_
+_Last updated: 2026-11-14T03:13:01.704595Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
