@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-17T03:51:40.309498Z",
+  "generated_at": "2026-11-17T22:20:57.144265Z",
   "count": 30,
   "results": [
+    {
+      "id": "50534429",
+      "title": "YC wrote software to run our internship expo \u2013 and an 8-bit SIM to show it off",
+      "url": "https://news.ycombinator.com/item?id=50534429",
+      "dt": "2026-11-17T17:00:24",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50534429",
+      "numComments": 0
+    },
     {
       "id": "50489589",
       "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49753131",
-      "numComments": 0
-    },
-    {
-      "id": "49743567",
-      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-      "url": "https://zscc.ai/careers?job_id=109821",
-      "dt": "2026-09-17T17:00:59",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49743567",
       "numComments": 0
     }
   ]
