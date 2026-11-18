@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-17T22:20:57.144265Z",
+  "generated_at": "2026-11-18T04:17:34.419353Z",
   "count": 30,
   "results": [
+    {
+      "id": "50541538",
+      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+      "dt": "2026-11-18T03:35:47",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50541538",
+      "numComments": 0
+    },
     {
       "id": "50534429",
       "title": "YC wrote software to run our internship expo \u2013 and an 8-bit SIM to show it off",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49768220",
-      "numComments": 0
-    },
-    {
-      "id": "49753131",
-      "title": "Cekura (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
-      "dt": "2026-09-18T12:00:10",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49753131",
       "numComments": 0
     }
   ]
