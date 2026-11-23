@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-23T00:50:22.855598Z",
+  "generated_at": "2026-11-23T09:00:56.551356Z",
   "count": 30,
   "results": [
+    {
+      "id": "50608390",
+      "title": "CollectWise (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+      "dt": "2026-11-23T07:01:08",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50608390",
+      "numComments": 0
+    },
     {
       "id": "50593679",
       "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49834893",
-      "numComments": 0
-    },
-    {
-      "id": "49814780",
-      "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-      "url": "https://questdb.com/careers/pre-sales-engineer-north-america/",
-      "dt": "2026-09-23T12:01:04",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49814780",
       "numComments": 0
     }
   ]
