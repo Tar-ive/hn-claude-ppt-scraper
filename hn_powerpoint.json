@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T09:01:25.440788Z",
-  "count": 3,
+  "generated_at": "2026-11-24T17:40:57.518815Z",
+  "count": 4,
   "results": [
     {
       "id": "50477041",
@@ -39,6 +39,20 @@
       "dt": "2026-11-11T03:08:39Z",
       "commentsUrl": "https://news.ycombinator.com/item?id=50449337",
       "numComments": 2,
+      "queryName": "visa_support",
+      "query": "visa sponsorship",
+      "match_mode": "regex",
+      "pptx_present": false
+    },
+    {
+      "id": "50610398",
+      "title": "The catch in IBM's offer to relocate its U.S.-based immigrant workers",
+      "url": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/",
+      "points": 2,
+      "submitter": "rdmuser",
+      "dt": "2026-11-23T11:44:14Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=50610398",
+      "numComments": 0,
       "queryName": "visa_support",
       "query": "visa sponsorship",
       "match_mode": "regex",
