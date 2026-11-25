@@ -58,12 +58,12 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 <!-- HN_TABLE_START -->
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
+| https://news.ycombinator.com/item?id=50644420 | https://github.com/editide/pintura | 2026-11-25T16:47:29Z | no | regex |
 | https://news.ycombinator.com/item?id=50477041 | https://www.jackandjill.ai/jill/state-of-hiring | 2026-11-13T01:46:03Z | no | regex |
-| https://news.ycombinator.com/item?id=50444436 | https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/ | 2026-11-10T18:45:41Z | no | regex |
 | https://news.ycombinator.com/item?id=50449337 | https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/ | 2026-11-11T03:08:39Z | no | regex |
 | https://news.ycombinator.com/item?id=50610398 | https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/ | 2026-11-23T11:44:14Z | no | regex |
 
-_Last updated: 2026-11-24T17:40:58.542998Z_
+_Last updated: 2026-11-25T22:30:36.735549Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions

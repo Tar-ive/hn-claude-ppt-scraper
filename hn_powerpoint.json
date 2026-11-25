@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-24T17:40:57.518815Z",
+  "generated_at": "2026-11-25T22:30:35.311188Z",
   "count": 4,
   "results": [
+    {
+      "id": "50644420",
+      "title": "Show HN: Pintura \u2013 YAML Slides for agents to edit and humans to review",
+      "url": "https://github.com/editide/pintura",
+      "points": 1,
+      "submitter": "danielochoa0620",
+      "dt": "2026-11-25T16:47:29Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=50644420",
+      "numComments": 0,
+      "queryName": "claude_powerpoint",
+      "query": "claude powerpoint",
+      "match_mode": "regex",
+      "pptx_present": false
+    },
     {
       "id": "50477041",
       "title": "The State of Startup Hiring 2026",
@@ -13,20 +27,6 @@
       "numComments": 0,
       "queryName": "startup_jobs",
       "query": "hiring startup",
-      "match_mode": "regex",
-      "pptx_present": false
-    },
-    {
-      "id": "50444436",
-      "title": "IBM to end visa, green card sponsorship for most roles in its Consulting arm",
-      "url": "https://www.reuters.com/technology/ibm-end-visa-green-card-sponsorship-most-roles-its-consulting-arm-2026-11-10/",
-      "points": 3,
-      "submitter": "frank_clover",
-      "dt": "2026-11-10T18:45:41Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=50444436",
-      "numComments": 1,
-      "queryName": "visa_support",
-      "query": "visa sponsorship",
       "match_mode": "regex",
       "pptx_present": false
     },
