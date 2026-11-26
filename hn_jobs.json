@@ -1,7 +1,17 @@
 {
-  "generated_at": "2026-11-26T05:00:51.931159Z",
+  "generated_at": "2026-11-26T15:12:00.319787Z",
   "count": 30,
   "results": [
+    {
+      "id": "50654353",
+      "title": "Head of Software Engineering \u2013 NOX Metals",
+      "url": "https://news.ycombinator.com/item?id=50654353",
+      "dt": "2026-11-26T12:00:00",
+      "points": 0,
+      "submitter": null,
+      "commentsUrl": "https://news.ycombinator.com/item?id=50654353",
+      "numComments": 0
+    },
     {
       "id": "50641323",
       "title": "Hazel (YC W24) Is Hiring a Product Designer",
@@ -290,16 +300,6 @@
       "points": 0,
       "submitter": null,
       "commentsUrl": "https://news.ycombinator.com/item?id=49945904",
-      "numComments": 0
-    },
-    {
-      "id": "49943524",
-      "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-      "url": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
-      "dt": "2026-10-03T12:02:10",
-      "points": 0,
-      "submitter": null,
-      "commentsUrl": "https://news.ycombinator.com/item?id=49943524",
       "numComments": 0
     }
   ]
