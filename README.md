@@ -62,7 +62,7 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 | https://news.ycombinator.com/item?id=50477041 | https://www.jackandjill.ai/jill/state-of-hiring | 2026-11-13T01:46:03Z | no | regex |
 | https://news.ycombinator.com/item?id=50610398 | https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/ | 2026-11-23T11:44:14Z | no | regex |
 
-_Last updated: 2026-11-26T23:50:26.528976Z_
+_Last updated: 2026-11-27T08:27:09.161020Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
