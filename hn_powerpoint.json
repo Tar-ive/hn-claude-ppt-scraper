@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T08:27:08.296790Z",
-  "count": 3,
+  "generated_at": "2026-11-28T01:58:06.591103Z",
+  "count": 2,
   "results": [
     {
       "id": "50644420",
@@ -17,28 +17,14 @@
       "pptx_present": false
     },
     {
-      "id": "50477041",
-      "title": "The State of Startup Hiring 2026",
-      "url": "https://www.jackandjill.ai/jill/state-of-hiring",
-      "points": 2,
-      "submitter": "hunglee2",
-      "dt": "2026-11-13T01:46:03Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=50477041",
-      "numComments": 0,
-      "queryName": "startup_jobs",
-      "query": "hiring startup",
-      "match_mode": "regex",
-      "pptx_present": false
-    },
-    {
-      "id": "50610398",
-      "title": "The catch in IBM's offer to relocate its U.S.-based immigrant workers",
-      "url": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/",
-      "points": 2,
-      "submitter": "rdmuser",
-      "dt": "2026-11-23T11:44:14Z",
-      "commentsUrl": "https://news.ycombinator.com/item?id=50610398",
-      "numComments": 0,
+      "id": "50667771",
+      "title": "IBM ends US visa sponsorship; India workers face 80% pay cut or job loss",
+      "url": "https://www.business-standard.com/immigration/ibm-ends-us-visa-sponsorship-india-workers-face-80-pay-cut-or-job-loss-126112600191_1.html",
+      "points": 6,
+      "submitter": "kamaraju",
+      "dt": "2026-11-27T15:05:17Z",
+      "commentsUrl": "https://news.ycombinator.com/item?id=50667771",
+      "numComments": 1,
       "queryName": "visa_support",
       "query": "visa sponsorship",
       "match_mode": "regex",

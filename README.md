@@ -59,10 +59,9 @@ python filter_results.py --in hn_queries.json --out hn_powerpoint.json --mode ll
 | HN link | App/External link | Posted | PPTX present | Match mode |
 |---|---|---|---|---|
 | https://news.ycombinator.com/item?id=50644420 | https://github.com/editide/pintura | 2026-11-25T16:47:29Z | no | regex |
-| https://news.ycombinator.com/item?id=50477041 | https://www.jackandjill.ai/jill/state-of-hiring | 2026-11-13T01:46:03Z | no | regex |
-| https://news.ycombinator.com/item?id=50610398 | https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/ | 2026-11-23T11:44:14Z | no | regex |
+| https://news.ycombinator.com/item?id=50667771 | https://www.business-standard.com/immigration/ibm-ends-us-visa-sponsorship-india-workers-face-80-pay-cut-or-job-loss-126112600191_1.html | 2026-11-27T15:05:17Z | no | regex |
 
-_Last updated: 2026-11-27T08:27:09.161020Z_
+_Last updated: 2026-11-28T01:58:07.700178Z_
 <!-- HN_TABLE_END -->
 
 ## GitHub Actions
